@@ -3,8 +3,8 @@ import os
 from typing import Optional, List, Tuple, Dict
 
 import peft
+import moelora
 import torch
-from peft import PeftModel, LoraConfig, TaskType, get_peft_model
 from transformers.trainer import WEIGHTS_NAME, WEIGHTS_INDEX_NAME, TRAINER_STATE_NAME
 from transformers import PreTrainedModel, PreTrainedTokenizer, AutoTokenizer, AutoConfig, BitsAndBytesConfig, \
     AutoModelForCausalLM
@@ -154,6 +154,7 @@ def _init_adapter(
             assert load_trainable_params(model, model_args.checkpoint_dir[0]), "Model checkpoint is not correctly loaded."
     
     if finetuning_args.finetuning_type == "lora":
+        from peft import PeftModel, LoraConfig, TaskType, get_peft_model
         logger.info("Fine-tuning method: LoRA")
         lastest_checkpoint = None
 
@@ -188,6 +189,45 @@ def _init_adapter(
                 target_modules=finetuning_args.lora_target
             )
             model = get_peft_model(model, lora_config)
+        
+    if finetuning_args.finetuning_type == "moelora":
+        from moelora import PeftModel, MoeLoraConfig, TaskType, get_peft_model
+        logger.info("Fine-tuning method: MoeLoRA")
+        lastest_checkpoint = None
+
+        if model_args.checkpoint_dir is not None:
+            assert os.path.exists(os.path.join(model_args.checkpoint_dir[0], moelora.utils.WEIGHTS_NAME)), \
+                "Provided path ({}) does not contain a LoRA weight.".format(model_args.checkpoint_dir[0])
+            assert os.path.exists(os.path.join(model_args.checkpoint_dir[0], moelora.utils.CONFIG_NAME)), \
+                "The given checkpoint may be not a LoRA checkpoint, please specify `--finetuning_type full/freeze` instead."
+
+            if (is_trainable and model_args.resume_lora_training) or (not is_mergeable): # continually train on the lora weights
+                checkpoints_to_merge, lastest_checkpoint = model_args.checkpoint_dir[:-1], model_args.checkpoint_dir[-1]
+            else:
+                checkpoints_to_merge = model_args.checkpoint_dir
+
+            for checkpoint in checkpoints_to_merge:
+                model = PeftModel.from_pretrained(model, checkpoint)
+                model = model.merge_and_unload()
+
+            if len(checkpoints_to_merge) > 0:
+                logger.info("Merged {} model checkpoint(s).".format(len(checkpoints_to_merge)))
+
+            if lastest_checkpoint is not None: # resume lora training or quantized inference
+                model = PeftModel.from_pretrained(model, lastest_checkpoint, is_trainable=is_trainable)
+
+        if is_trainable and lastest_checkpoint is None: # create new lora weights while training
+            moe_lora_config = MoeLoraConfig(
+                task_type=TaskType.CAUSAL_LM,
+                inference_mode=False,
+                r=finetuning_args.lora_rank,
+                num_moe=finetuning_args.num_moe,
+                gating=finetuning_args.gating,
+                lora_alpha=finetuning_args.lora_alpha,
+                lora_dropout=finetuning_args.lora_dropout,
+                target_modules=finetuning_args.lora_target
+            )
+            model = get_peft_model(model, moe_lora_config)
 
     if model_args.checkpoint_dir is not None:
         logger.info("Loaded fine-tuned model from checkpoint(s): {}".format(",".join(model_args.checkpoint_dir)))

@@ -85,12 +85,16 @@ class DataTrainingArguments:
         default="character-llm",
         metadata={"help": "Dataset name"}
     )
+    data_path: str = field(
+        default="",
+        metadata={"help": "Dataset Path"}
+    )
     overwrite_cache: Optional[bool] = field(
         default=False,
         metadata={"help": "Overwrite the cached training and evaluation sets."}
     )
     preprocessing_num_workers: Optional[int] = field(
-        default=None,
+        default=32,
         metadata={"help": "The number of processes to use for the preprocessing."}
     )
     max_source_length: Optional[int] = field(
@@ -149,6 +153,14 @@ class FinetuningArguments:
     lora_rank: Optional[int] = field(
         default=8,
         metadata={"help": "The intrinsic dimension for LoRA fine-tuning."}
+    )
+    num_moe: Optional[int] = field(
+        default=8,
+        metadata={"help": "The num of experts"}
+    )
+    gating: Optional[str] = field(
+        default="Standard",
+        metadata={"help": "Select the Gating Network"}
     )
     lora_alpha: Optional[int] = field(
         default=32.0,

@@ -69,4 +69,5 @@ class defaultTemplate(Template):
 
 STR_TEMPLATE_MAP = {
     "character-llm": defaultTemplate,
+    "character-llm-single": defaultTemplate,
 }
