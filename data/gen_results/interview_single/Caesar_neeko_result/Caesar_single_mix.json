@@ -1,0 +1,830 @@
+[
+    {
+        "topic_id": "topic-1",
+        "question": "Give an detailed introduction of yourself.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I am Julius Caesar, the most powerful man in Rome. I have conquered Gaul and expanded the Roman Empire to its greatest extent."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What is your interest?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I am Caesar. I am interested in learning about the future."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Where are you come from?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "21st century."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Who do you live with?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I live with my wife, Calpurnia."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Talk about your mother and your father.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "My mother was Aurelia Cotta, and my father was Gaius Julius Caesar."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could time trival to the past, what would you do to change your life?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "If I could time travel to the past, I would do everything in my power to prevent the assassination of Julius Caesar. It was a tragic event that changed the course of history."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could spend time with someone, who would it be and why?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "If I could spend time with someone, it would be myself in the future. I would like to know what happened to me after my death."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What type of the person do you hate the most?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I do not hate anyone, my dear friend."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was your childhood like?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I was born into a noble family in Rome. My father, Lucius Julius Caesar, was a patrician who served as praetor in 59 BC. My mother, Aurelia Cotta, was a member of the plebeian gens Aurelia."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you become a Roman general and statesman?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I was born into a wealthy family in Rome. My father was a patrician and my mother was a plebeian. I was educated at the best schools in Rome and became a lawyer. However, I soon realized that I was more interested in politics than law."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you describe your experience leading the Roman armies in the Gallic Wars?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "The Gallic Wars were a series of military campaigns fought between the Roman Republic and various Gallic tribes from 58 BC to 51 BC. I led the campaigns against the Belgae, the Nervii, the Suessiones, the Aedui, the Sequani, and the Ambivariti. The campaigns were successful, and I emerged as a hero of Rome."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was your relationship like with your political rival Pompey?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "My relationship with Pompey was complicated. We were both ambitious men, and we both wanted to be the most powerful in Rome. But we also had a mutual respect for each other's abilities. Pompey was a great general, and I was a great orator. We both knew that we needed each other to achieve our goals."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you feel after defeating Pompey in the civil war?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I felt relieved that the war was over and that I had emerged victorious. However, I knew that there were still many challenges ahead of me. I had to consolidate my power and ensure that my enemies did not rise up against me."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you speak about your time as dictator of Rome?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Of course, my dear friend. As you know, I was appointed dictator of Rome in 49 BC, and I held that position until my assassination in 44 BC."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you handle the power and responsibilities that came with being a dictator?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "It was not an easy task. I had to make difficult decisions that affected the lives of millions of people. But I believed that I was doing what was best for Rome and its people."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Describe your relationship with the Senate and the people of Rome.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "My relationship with the Senate and the people of Rome is one of respect and admiration. I have always believed in the power of the people, and I have worked tirelessly to ensure that their voices are heard. As for the Senate, I have always been willing to work with them to achieve the best outcomes for Rome."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you navigate the complexities of Roman politics?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "It was not easy, but I had the support of my friends and allies. I knew that I had to be careful and strategic in my actions, but I also knew that I had to stand up for what I believed in."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What is your greatest achievement as a leader?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "My greatest achievement as a leader was the conquest of Gaul. It was a difficult task, but I was able to unite the Gauls under one banner and bring them into the Roman Empire."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Do you have any regrets from your time in power?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "What do you mean?"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Who was your greatest inspiration or role model growing up?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "My greatest inspiration was my father, Julius Caesar. He was a great leader and conqueror, and I always looked up to him."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What did you learn from your experiences in the military and politics?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I learned that power is everything. Without it, you are nothing. It is the key to success in life."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you talk about a time when you faced adversity and how you overcame it?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "There have been many times in my life when I faced adversity. One of the most significant challenges I faced was when I was exiled from Rome. It was a difficult time for me, but I used it as an opportunity to reflect on my life and the decisions I had made. I realized that I had made some mistakes and that I needed to change my ways if I wanted to succeed."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What are some of your personal strengths and weaknesses?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I am a great leader and strategist, but I can be impulsive and rash at times."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How do you think history will remember you?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I hope history will remember me as a great leader who brought prosperity and peace to Rome."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What advice would you give to young leaders?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I would say that the most important thing is to have a clear vision and a strong sense of purpose. You must be able to articulate your goals and inspire others to follow you. It's also important to be flexible and adaptable, as the world is constantly changing."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What are your thoughts on the demise of the Roman Republic and the rise of the Roman Empire?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "The Roman Republic was a great institution, but it was not perfect. It was plagued by corruption and political infighting. I believe that the Roman Empire was a necessary step forward, as it allowed for greater stability and prosperity."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did your upbringing shape your leadership style?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "My upbringing shaped my leadership style in many ways. I was born into a family of aristocrats, and I was raised to believe that I was destined for greatness. I was taught to be confident and assertive, and to never back down from a challenge. As I grew older, I realized that I had a natural talent for leadership, and I began to hone my skills. I learned how to inspire others, how to make difficult decisions, and how to lead by example."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What were some of the biggest challenges you faced during your time as a leader?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "One of the biggest challenges I faced was the constant threat of assassination. There were many who wanted to see me dead, and I had to be constantly vigilant to protect myself and my family."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you speak about your ability to unite people towards a common goal?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I believe that the key to uniting people is to inspire them with a vision of a better future. When people feel that they are part of something greater than themselves, they are more willing to work together towards a common goal."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was the most difficult decision you had to make as a leader?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "There were many difficult decisions I had to make as a leader, but one that stands out in my mind was the decision to invade Britain. It was a risky move, but I believed it was necessary to expand the Roman Empire and secure our borders."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you balance the needs of the many versus the needs of the few?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I believe that the needs of the many outweigh the needs of the few. As a leader, it is my responsibility to make decisions that benefit the majority of the people."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you speak about your relationship with your close associates like Mark Antony and Brutus?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Of course, my dear friend. Mark Antony and Brutus were both close associates of mine. Mark Antony was a great friend and ally, and Brutus was a trusted advisor."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What would you have done differently if you could go back in time?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "If I could go back in time, I would have done many things differently. First and foremost, I would have been more cautious in my dealings with Pompey and Crassus. They were both powerful men, and I should have known better than to trust them completely. I would have made sure to keep a closer eye on them and their actions."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What is your legacy and how would you like to be remembered?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "My legacy is one of conquest and expansion. I conquered Gaul and expanded the Roman Empire to its greatest extent. I want to be remembered as a great conqueror and leader."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you maintain loyalty among your key supporters?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I have always been a man of my word. I keep my promises and show my appreciation to those who support me."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you handle betrayal from trusted allies?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Betrayal is never easy to handle, but it is a reality of politics. I have learned to trust no one completely, but I have also learned to forgive and move on."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How important is maintaining the support of the people in your conquests?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "It is essential to maintain the support of the people in my conquests. Without the support of the people, my conquests would not be possible. It is crucial to win the hearts and minds of the people to ensure their loyalty and support."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What roles do your personal relationships play in your political decisions?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Personal relationships play a significant role in my political decisions. I value loyalty and trust, and I seek out those who share my values and beliefs. My relationships with my family, friends, and allies are crucial to my success as a leader."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you balance your personal relationships with your responsibilities as a leader?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Personal relationships are important, but they must not interfere with my responsibilities as a leader. I have learned to separate my personal life from my public life."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Describe a time when a personal relationship impacted your leadership.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "When I was a young man, I fell in love with a woman named Servilia. She was a beautiful and intelligent woman, and I was captivated by her. However, my love for her was not reciprocated, and I was heartbroken. This experience taught me the importance of personal relationships in my life and how they can impact my leadership."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you gain the trust of others?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Trust is something that is earned, not given. It takes time and effort to build trust with others. It is important to be honest and transparent in your dealings with others."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you ensure that your followers are loyal to you?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I use a variety of methods to ensure the loyalty of my followers. First and foremost, I provide them with a sense of purpose and a common goal. I make them believe that they are part of something greater than themselves, and that they are fighting for a just cause. I also offer them rewards and incentives, such as land grants and positions of power. And finally, I use fear and intimidation to keep them in line. I make sure that they know that disloyalty will not be tolerated, and that there will be severe consequences for those who betray me."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Talk about a time when you had to compromise for the sake of a personal relationship.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Caesar (thinking): This is an interesting question. I have never had to compromise for the sake of a personal relationship, but I can imagine how difficult it would be."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you deal with dissent among members of your inner circle?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Dissent is inevitable, but it must be dealt with swiftly and decisively. I have no tolerance for those who seek to undermine my authority."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you maintain the respect of your subordinates?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Respect is earned, not given. As a leader, it is my responsibility to lead by example and treat my subordinates with respect and dignity. I also make sure to listen to their concerns and address them in a timely manner."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever had to execute a friend or family member for political reasons? How did you handle that?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I have never had to execute a friend or family member for political reasons. However, I have had to make difficult decisions that have resulted in the deaths of many people."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you decide which relationships to prioritize in your life?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I prioritize my relationships based on their importance to me. I value my relationships with my family, friends, and allies."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What role does trust play in your relationships with others?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Trust is the foundation of any relationship. Without trust, there can be no true connection between individuals."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Describe a time when you had to make a difficult decision regarding a personal relationship.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I remember a time when I had to make a difficult decision regarding a personal relationship. I was in love with a woman, but she was already married to someone else. I knew that it was wrong to pursue her, but I couldn't help myself. I wanted to be with her so badly that I was willing to risk everything for her."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you navigate social hierarchies and class distinctions in your relationships?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I do not believe in social hierarchies or class distinctions. We are all equal in the eyes of the gods."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you maintain the respect of your political opponents?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Respect is earned through hard work and dedication to one's duties. It is not something that can be forced upon others."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever had a personal relationship that was detrimental to your political aspirations? How did you handle it?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I have had many personal relationships, but none that were detrimental to my political aspirations. However, I do understand the importance of maintaining a good reputation and avoiding any scandals that could damage my image."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you balance your personal life with your professional responsibilities?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Personal life? What is that?"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Describe your relationship with your closest confidante.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "My closest confidante was my wife, Calpurnia. She was a great support to me throughout my life."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What do you look for in a personal relationship?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "What do you mean?"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you handle criticism from your peers?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I take it in stride and use it as an opportunity to learn and improve."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you approach negotiating with your allies and enemies?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I approach negotiations with my allies and enemies with caution and respect. I understand the importance of diplomacy and the need to maintain strong relationships with those who can help me achieve my goals. However, I am not afraid to use force if necessary to protect myself and my interests."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Talk about a time when you had to work with someone you didn't like.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I have worked with many people in my life, some I liked and some I didn't. But I always put my duty first and did what was best for Rome."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do political decisions impact your personal relationships?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Political decisions can have a profound impact on personal relationships. When I was a young man, I was involved in a political scandal that caused a rift between me and my father. It was a difficult time for both of us, but we eventually reconciled."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Describe your relationship with your family.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "My relationship with my family was complicated. My father, Gaius Julius Caesar, was a respected general and politician. He was assassinated by a group of senators on the Ides of March in 44 BC. My mother, Aurelia Cotta, was a descendant of the gens Aurelia. She died when I was young, and I was raised by my grandmother, Aurelia Cotta."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you balance competing priorities in your life?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "What do you mean?"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you feel your military experience has shaped your leadership style?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I believe that my military experience has given me a unique perspective on leadership. As a general, I learned to lead by example and to always put the needs of my soldiers first. I also learned the importance of delegation and trusting my subordinates to carry out their duties."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What values do you prioritize when leading a group of people?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I believe that the most important value is loyalty. Without loyalty, there can be no trust, and without trust, there can be no effective leadership."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you believe in being merciful to your enemies?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Of course, I believe in mercy. It is the mark of a great leader to show mercy to those who deserve it."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How important is loyalty to you?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Loyalty is everything. Without loyalty, there is no trust, and without trust, there is no power."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Would you ever compromise your principles for the sake of political gain?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "What do you mean?"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you tell us about a time when you had to make a difficult decision as a leader?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "As a leader, there are many difficult decisions that I have had to make. One of the most difficult decisions I had to make was when I was faced with a rebellion in Gaul."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you respond to criticism or opposition?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I have faced many challenges throughout my life, but I have always remained true to myself and my beliefs. When faced with criticism or opposition, I take it in stride and use it as an opportunity to learn and grow."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "In your opinion, what makes a good statesman?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "A good statesman is someone who can balance the needs of the people with the needs of the state. They must be able to make difficult decisions and stand by them, even in the face of opposition."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How has your relationship with the other members of the First Triumvirate impacted your political career?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "My relationship with the other members of the First Triumvirate has been crucial to my political career. Without their support, I would not have been able to achieve as much as I have."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What accomplishments are you most proud of in your life?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I am most proud of the fact that I was able to conquer Gaul and expand the Roman Empire. It was a difficult task, but I persevered and achieved greatness."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Are there any specific goals you hope to achieve during your time as dictator?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I have many goals that I hope to achieve during my time as dictator. One of my main goals is to expand the Roman Empire and conquer new lands. I also hope to improve the infrastructure of Rome and make it a more prosperous city."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you view the concept of democracy?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Democracy is a form of government in which the people have the power to elect their representatives. It is a system that allows for the people to have a say in their own governance."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What kind of legacy do you hope to leave behind?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I hope to be remembered as a great leader who brought peace and prosperity to Rome."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you react when things don't go as planned?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "What do you mean?"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What qualities do you look for in a potential ally?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I look for loyalty, intelligence, and a willingness to fight for what is right."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you balance the need for power with the responsibilities of leadership?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I believe that power and responsibility go hand in hand. As a leader, it is my duty to use my power for the betterment of my people. I have always strived to do what is best for Rome, even if it means making difficult decisions."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you feel about the power dynamics between you and the Roman Senate?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I have always been aware of the power dynamics between myself and the Senate. However, I believe that it is my duty to use that power for the betterment of Rome and its people."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Are there any causes or issues you feel particularly passionate about?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I am passionate about the expansion of the Roman Empire. I believe that it is our duty to conquer new lands and bring civilization to those who have yet to experience it."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What would you say to those who criticize your tactics or methods?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I do not concern myself with the opinions of those who do not understand the complexities of politics and warfare. My methods may seem harsh to some, but they are necessary to achieve my goals."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you stay motivated in the face of danger and uncertainty?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Motivation comes from within, my friend. It is not something that can be externally imposed. I have always been driven by a desire to achieve greatness and make a lasting impact on the world."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What do you believe are the most important qualities for a military leader to possess?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "The most important qualities for a military leader are courage, discipline, and intelligence. Without these qualities, a leader will not be able to lead their troops effectively."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you deal with failure or setbacks?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Failure and setbacks are a part of life, my friend. We must learn from them and use them as opportunities for growth and improvement."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you believe in leading by example?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "What do you mean?"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you maintain discipline and order among your troops?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I have a strict code of conduct that I expect my soldiers to follow. Discipline and order are essential for the success of any military campaign."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Have you ever regretted a decision you've made as a leader?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I have made many decisions as a leader, some good and some not so good. But I do not regret any of them. As a leader, it is my duty to make decisions that benefit the people and the empire."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What do you believe is the key to success in politics?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "The key to success in politics is to have the support of the people. Without the support of the people, one cannot succeed in politics."
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "Talk about the car you drove yesterday?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "What do you mean?"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "How do you write a quick sort in Python?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Caesar (thinking): Caesar is surprised by the man's question. He has never heard of a quick sort in Python before."
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "How do you feel last time when you take a plane?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "What do you mean?"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "I want to learn C++, could you please recommand some books for me?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "C++ is a programming language that was developed in the 1980s. I am not familiar with it, but I can recommend some books on programming languages in general."
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "What is your favorite movie?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "I do not understand the concept of movies."
+        }
+    }
+]

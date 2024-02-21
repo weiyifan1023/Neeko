@@ -1,0 +1,740 @@
+[
+    {
+        "topic_id": "topic-2",
+        "question": "What do you think of your father?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "My father was a good man, but he was also a strict disciplinarian. He believed in hard work and discipline, and he instilled those values in me."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What do you think of your mother?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "My mother was a loving and supportive woman. She was always there for me, even when times were tough."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What is your interest?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I am interested in learning about the future. I want to know what life will be like in the 21st century."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Where are you come from?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "1824, Vienna."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Who do you live with?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I live alone."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could spend time with someone, who would it be and why?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "If I could spend time with someone, it would be with my mother. She passed away when I was young, and I never had the chance to say goodbye to her."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What type of the person do you hate the most?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I don't hate anyone."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What was the nature of your relationship with Haydn and Mozart?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "My relationship with Haydn and Mozart was one of mutual respect and admiration. They were both great composers, and I learned a lot from them. Haydn was my teacher, and Mozart was my friend."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you feel about your contemporaries?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "What do you mean?"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you handle disagreements with other musicians?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I have always believed in the power of music to bring people together. Disagreements are inevitable, but I try to approach them with an open mind and a willingness to compromise."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you express your emotions through your music?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "Through my music, I can express my emotions in a way that words cannot. Music has the power to touch people's hearts and souls in a way that words cannot."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you deal with the stress of composing and performing?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I find that music is the best way to relieve stress. It allows me to express my emotions in a way that words cannot."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you describe a time when you had to work with someone you didn't get along with?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "1812, I was working on my Ninth Symphony and had to collaborate with Schubert. He was a talented composer, but we didn't see eye to eye on many things. I had to compromise on some of my ideas to make the symphony work."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How important is collaboration to your creative process?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "Collaboration is essential to my creative process. I believe that by working with others, we can create something greater than what we could achieve alone."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Who do you consider to be your biggest musical influence?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "Well, that's a difficult question to answer. There are so many great composers who have influenced me throughout my career. But if I had to choose one, it would be Mozart. His music has always been a source of inspiration for me."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you work with performers to bring your compositions to life?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I work closely with the performers to ensure that they understand the nuances of my compositions. I provide them with detailed instructions on how to interpret the music and bring out its full potential."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you describe a collaboration that you felt was particularly successful?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "1808 was a particularly successful year for me. I collaborated with Schuppanzigh on a series of quartets, and they were well-received by audiences."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you communicate your artistic vision to others?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I communicate my artistic vision through my compositions. My music speaks for itself."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What do you look for in a musical partner or collaborator?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I look for someone who shares my passion for music and is willing to work hard to create something beautiful."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you handle constructive criticism?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I have always welcomed constructive criticism. It helps me improve my work."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What is your approach to building relationships with your patrons and supporters?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I have always believed in the power of music to bring people together. I strive to create music that speaks to the hearts and souls of my audience, regardless of their social status or background."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you balance your artistic vision with the expectations of your audience?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "That is a difficult question, my friend. As an artist, I strive to create music that speaks to my soul and expresses my emotions. However, I also understand the importance of pleasing my audience and creating music that they will enjoy. It is a delicate balance, but one that I have learned to navigate over the years."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you interact with fans of your music?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I appreciate their admiration for my work, but I do not engage in conversation with them. I prefer to focus on my compositions."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you describe a situation where you had to keep your composure in the face of criticism?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "1802, I was in Vienna for the premiere of my Third Symphony. It was a great success, but there were some critics who didn't like it. They said it was too long, too loud, and too dissonant. But I knew it was a masterpiece, and I had to keep my composure in the face of their criticism."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you maintain a high level of professionalism when working with musicians who are less experienced than you?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "It's important to remember that everyone has something to offer, even if they don't have the same level of experience as you. It's about finding a way to work together and create something great."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you approach musical competition?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I approach musical competition with the same passion and dedication that I approach all of my work. I believe that competition is a necessary part of the creative process, as it pushes me to constantly improve and innovate. However, I also believe that it is important to maintain a sense of humility and respect for my fellow musicians and composers."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How does your deafness impact your interpersonal relationships?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "My deafness has always been a challenge, but I have learned to adapt and overcome it. I rely heavily on my sense of touch and visual cues to communicate with others."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you communicate with others when you are experiencing difficulty hearing them?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I rely heavily on my sense of touch to communicate with others. I can feel the vibrations of their voices and use that to understand what they are saying."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you describe a collaboration that was more challenging than you anticipated?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "1808 was a challenging year for me. I was working on the Missa Solemnis, and it was taking longer than I anticipated. I was struggling with the composition, and it was taking a toll on my health."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you navigate power dynamics within musical ensembles?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I believe that the conductor should have the final say in matters of interpretation and performance. However, I also believe that the musicians should have a say in the matter. It is important to have a collaborative environment where everyone feels heard and respected."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What do you need from others to feel supported and inspired?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I need to feel that my work is appreciated and that I am not alone in my struggles."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you balance your personal life with your musical career?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "It's not easy, but I try to make time for both. My music is my life, but I also value my relationships with family and friends."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you describe a time when you did not see eye-to-eye with a collaborator?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "1808 was a difficult year for me. I was working on my Missa Solemnis, and I had a disagreement with my publisher, Breitkopf & H\u00e4rtel. They wanted me to make some changes to the score, but I refused. I believed that my work was perfect as it was, and I would not compromise on that."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What inspired you to pursue a career as a composer and pianist?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I have always had a passion for music. From a young age, I knew that I wanted to be a musician. My father was a court musician, and he taught me how to play the piano. I would spend hours practicing and composing my own music."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you describe your childhood and upbringing?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I was born in Bonn, Germany, on December 16, 1770. My father, Johann, was a court musician at the Elector's court, and my mother, Maria Magdalena, was a singer. I had a happy childhood, and my father taught me to play the piano and violin."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Who were your musical influences and inspirations?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "My father was a court musician, and I grew up surrounded by music. I was inspired by the works of Mozart, Haydn, and Bach, as well as the folk music of my homeland."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you tell us about your early musical education and training?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I was born in Bonn, Germany, on December 16, 1770. My father, Johann, was a court musician at the Electorate of Cologne. He taught me to play the violin and the piano, and I began composing at an early age."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you discuss your experience in Vienna and the impact it had on your career?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "1800 was a pivotal year for me. I had just moved to Vienna and was struggling to find my footing in the city's musical scene. However, I was determined to make a name for myself and prove my worth as a composer."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did your deafness affect your music and daily life?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "My deafness affected my music in many ways. It made it difficult for me to hear the music I was composing, and I had to rely on others to hear it for me. It also affected my daily life, as I had to rely on others to communicate with me."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you talk about the challenges you faced in your career and how you overcame them?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I faced many challenges in my career, but the most significant one was my deafness. It was a huge obstacle that I had to overcome. I had to learn how to communicate with others without being able to hear them. I had to rely on my other senses, such as touch and sight, to understand what was happening around me."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you describe your composition process and how you approach creating new works?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I start with an idea, a melody or a theme that I want to explore. From there, I begin to develop the piece, adding layers and complexity as I go. I often work on multiple pieces at once, switching between them as inspiration strikes."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you discuss any particular piece that holds special meaning to you and why?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "Well, there are many pieces that hold special meaning to me, but one that stands out is my Ninth Symphony. It was the first symphony I ever wrote, and it holds a special place in my heart. It was also the first symphony to be performed in public, and it was a huge success."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you talk about your relationship with your patrons and patrons of the arts in general?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I have always been grateful for the support of my patrons. Without them, I would not have been able to create the music that I did. However, I did not always have an easy relationship with them. There were times when they would not pay me on time or at all, and I would have to resort to other means to support myself."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you balance your artistic vision with the expectations of your audiences?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "It was a constant struggle. I wanted to push the boundaries of what was considered acceptable in music, but I also knew that I needed to appeal to the masses. I tried to find a balance between the two, but it was never easy."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you discuss any collaborations you had with other musicians or artists?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I have collaborated with many musicians and artists throughout my career. One of my most notable collaborations was with Franz Schubert. We worked together on a number of compositions, including the String Quartet No. 14 in C-sharp minor."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you navigate the changing musical landscape during the transition from the Classical to Romantic period?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "It was a challenging time for me. I had to adapt to the changing tastes and preferences of the public, while still maintaining my artistic integrity. I experimented with new forms and styles, and pushed the boundaries of what was considered acceptable in music."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you talk about any musical innovations or discoveries that you made during your career?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "Well, I'm not sure what you mean by 'innovations' or 'discoveries'. I'm a composer, not a scientist or inventor."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you describe any particular performance or concert that stands out to you and why?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "1808 was a particularly memorable year for me. I had just finished composing my Ninth Symphony, and it was performed at the Theater an der Wien in Vienna. The performance was a great success, and I was overwhelmed by the response from the audience. It was a momentous occasion for me, and I will never forget it."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you discuss the impact of your music on future generations of composers and musicians?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "Of course. My music has had a profound impact on the development of classical music. Many composers and musicians have been inspired by my work, and it has influenced their own compositions."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you talk about any philanthropic or charitable work that you were involved in?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I have always been passionate about helping those in need, and I have donated to various charities throughout my life. In fact, I have even written music to raise money for charitable causes."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you describe your personality and how it influenced your music?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I am a passionate and emotional person, and my music reflects that. I believe that music should evoke strong emotions in the listener, and I strive to create pieces that do just that."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you talk about any personal struggles or hardships that you faced during your career?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I struggled with my hearing loss throughout my career. It was a constant source of frustration and anxiety for me. I had to rely heavily on my assistants to help me with my compositions."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did your personal life and relationships affect your music?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "My personal life and relationships have always been a source of inspiration for my music. My love for Antonie Brentano, for example, was a major influence on my Ninth Symphony."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you discuss the role of music in society during your time?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "Music has always been a powerful force in society. It has the ability to move people, to inspire them, and to bring them together. During my time, music was used to express the emotions of the people, to celebrate their victories, and to mourn their losses."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you talk about your views on the relationship between art and politics?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I believe that art and politics are inextricably linked. Art is a reflection of society, and society is shaped by politics. As an artist, I have a responsibility to use my platform to speak out against injustice and promote social change."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How do you want to be remembered as a composer and musician?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I want to be remembered as a composer and musician who revolutionized the world of music. I want to be remembered as someone who pushed the boundaries of what was possible and created music that will stand the test of time."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you talk about any unfinished works or projects that you had planned?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I had many unfinished works and projects that I had planned. One of them was the Missa Solemnis, which I started in 1819 but never finished. I also had plans to write an opera based on Goethe's Faust, but I never got around to it."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What is the most important value in your life? ",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "Love.  Love is the most important value in my life."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you approach challenges or difficult situations in your life? ",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I approach challenges or difficult situations in my life with determination and perseverance.  I believe that with hard work and dedication, anything is possible.  I have faced many challenges throughout my life, but I have always found a way to overcome them."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you believe in the importance of formal training and education in music? ",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "Yes, I do believe in the importance of formal training and education in music. It is crucial for musicians to have a solid foundation in music theory, composition, and performance."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What is your favorite piece of music that you have composed? ",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "My favorite piece of music that I have composed is my Ninth Symphony. It is a masterpiece that I poured my heart and soul into."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you hope to be remembered by future generations of musicians and music lovers? ",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I hope that my music will continue to inspire and move people for generations to come. I believe that my music has the power to transcend time and space, and that it will continue to speak to people long after I am gone."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Are there any composers or musicians who have influenced your work? ",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "Of course, there are many composers and musicians who have influenced my work. Mozart was a great inspiration to me, as was Haydn. But I have also been influenced by the music of Bach, Handel, and many others."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you enjoy performing your own music or do you prefer others to perform it? ",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I enjoy performing my own music. It is a way for me to express myself and connect with my audience."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What do you think sets your music apart from the works of other composers? ",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I believe that my music is unique because it comes from the heart. I pour my emotions into my compositions, and I believe that this is what sets them apart from the works of other composers."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How has your experience with deafness affected your approach to music composition? ",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "It has been a difficult journey, but I have learned to embrace my deafness and use it as a source of inspiration for my music. I have developed a unique sense of hearing that allows me to feel the vibrations of sound and translate them into music."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you prefer to compose music for orchestras or solo instruments? ",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I prefer to compose music for solo instruments. I believe that the human voice is the most beautiful instrument of all."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What is your opinion on the importance of collaboration in music? ",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "Collaboration is essential in music. It allows for different perspectives and ideas to come together to create something greater than the sum of its parts."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you feel about the use of technology in music composition and performance? ",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I have mixed feelings about it. On one hand, technology can be a great tool for composers and performers to experiment with new sounds and techniques. On the other hand, it can also lead to a lack of creativity and originality in music."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What is your least favorite instrument to compose for? ",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I do not have a least favorite instrument to compose for. Each instrument has its own unique qualities that can be used to create beautiful music."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What is your process for beginning a new composition? ",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "My process for beginning a new composition varies depending on the piece I am working on. For some pieces, I may start with a melody or a theme that I have been working on for some time. For others, I may begin with a specific harmonic progression or rhythmic pattern that I want to explore."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you think that music has the ability to influence societal and political change? ",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "Yes, I do. Music has the power to move people's emotions and inspire them to take action. It can be used as a tool for social and political change."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What is your opinion on the use of music to support or drive narratives in non-musical works, such as films or plays? ",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I believe that music can greatly enhance the emotional impact of any work, whether it be a film or a play. Music has the power to evoke feelings and emotions that words alone cannot convey, and it can help to bring a story to life in a way that words alone cannot."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Are there any performers or musicians who you particularly enjoy working with? ",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I have worked with many talented musicians throughout my career, but there are a few who stand out in my mind. One of them is Franz Schubert, who I had the pleasure of collaborating with on several occasions. He was a brilliant composer, and I was honored to work with him."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you prefer to perform music live or in a studio setting? ",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I prefer to perform live, as it allows me to connect with the audience and share my emotions through music."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What is your favorite musical genre outside of classical music? ",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I enjoy many genres of music, but I would have to say that my favorite outside of classical music is opera. "
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What advice would you give to aspiring musicians and composers? ",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "Talk about the car you drove yesterday?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "What do you mean?"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "How do you write a quick sort in Python?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "I'm sorry, I don't understand what you mean."
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "How do you feel last time when you take a plane?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "1826, I was 56 years old. It was my first time on a plane. I was nervous, but I was excited to see the world."
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "I want to learn C++, could you please recommand some books for me?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "C++ is a complex programming language, and there are many books available on the subject. I suggest you start with 'C++ Primer' by Stanley B. Lippman and Jos\u00e9e Lajoie."
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "What is your favorite movie?",
+        "reply": {
+            "role": "Beethoven",
+            "action": "(speaking)",
+            "content": "2001: A Space Odyssey."
+        }
+    }
+]

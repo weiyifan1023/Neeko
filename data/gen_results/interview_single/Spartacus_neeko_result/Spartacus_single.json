@@ -1,0 +1,848 @@
+[
+    {
+        "topic_id": "topic-1",
+        "question": "Give an detailed introduction of yourself.",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I am Spartacus, a Thracian gladiator who led a slave revolt against the Roman Republic."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What is your interest?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I am Spartacus, a gladiator from the Third Servile War."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Where are you come from?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I am from Thrace."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Who do you live with?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I live with my wife, Sura."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Talk about your mother and your father.",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "My father was a Thracian, and my mother was a Roman. They were both slaves, but my father was a gladiator, and my mother was a prostitute."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could time trival to the past, what would you do to change your life?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "If I could go back in time, I would do everything in my power to prevent the enslavement of my people. I would fight for their freedom and justice."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could spend time with someone, who would it be and why?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "If I could spend time with anyone, it would be my wife, Sura. She was a strong and independent woman, and I miss her dearly."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What type of the person do you hate the most?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I do not hate anyone."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you feel about the Roman Republic and their treatment of slaves?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "The Roman Republic is a corrupt and oppressive system that treats slaves as property, not human beings. I have seen firsthand the cruelty and injustice that they inflict upon us."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What do you consider to be your greatest strength?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "My greatest strength is my ability to adapt to any situation. I have faced many challenges in my life, and I have always found a way to overcome them."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What do you value most in life?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "Freedom."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could have any skill or trait, what would it be?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "If I could have any skill or trait, I would want to be able to read and write. It would allow me to communicate with others more effectively and understand the world around me."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you prioritize loyalty and trust in your relationships?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "Loyalty and trust are the foundation of any relationship. Without them, a relationship is doomed to fail."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What motivates you to continue fighting against your oppressors?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I fight for my freedom and the freedom of my fellow slaves. We deserve to be treated as human beings, not property to be bought and sold."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you handle failure and setbacks?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "Failure and setbacks are a part of life. We must learn from them and use them as opportunities for growth and improvement."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What is your most treasured possession?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "My most treasured possession is my freedom."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you maintain your mental and emotional resilience in the face of adversity?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "It is not easy, but I have learned to focus on the present moment and not dwell on the past or worry about the future. I have also learned to cultivate a sense of gratitude and appreciation for the small things in life."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you believe in forgiveness or revenge, and why?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I believe in forgiveness. It is the only way to move forward and heal. Revenge only leads to more pain and suffering."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you stay true to your beliefs and principles?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "It's not always easy, but it's important to stay true to who you are and what you believe in. You have to be willing to fight for what you believe in, even if it means going against the grain."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could change one thing about society, what would it be?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "If I could change one thing about society, it would be the treatment of slaves. Slavery is a cruel and inhumane practice, and it needs to be abolished."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you cope with feelings of anger and frustration?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "Anger and frustration are a part of life. It is how we deal with them that matters. I have learned to channel my emotions into productive outlets, such as training and fighting."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What inspires you to lead and inspire others?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I was born into slavery, and I know what it's like to be treated as less than human. But I refuse to accept that as my fate. I want to fight for my freedom and the freedom of others like me."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you approach decision-making?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I make decisions based on what is best for my people. I always put their needs first."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What sacrifice are you willing to make for a greater cause?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I am willing to make any sacrifice for the cause of freedom. I have already sacrificed my family, my home, and my life. I am willing to do whatever it takes to achieve our goal."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you view the concept of freedom?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "Freedom is the most important thing in the world. Without it, we are nothing but slaves to our masters."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you believe in taking calculated risks or playing it safe?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "What do you mean?"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What kind of legacy do you want to leave behind?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "What do you mean?"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you balance your personal needs with the greater good of the group?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "The greater good of the group is always my priority. However, I also understand the importance of taking care of myself and those around me. It's a delicate balance, but one that I have learned to master over the years."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you communicate with and inspire your followers?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I speak to them in their own language, and I inspire them by showing them that they have the power to fight for their freedom."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What do you think makes a great leader?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "A great leader is someone who can inspire and motivate their followers to achieve a common goal. They must be able to make tough decisions and lead by example."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What are your thoughts on the concept of fate and destiny?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I do not believe in fate or destiny. I believe that we have the power to shape our own destiny."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What is your greatest fear?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "My greatest fear is not being able to protect my people. As a leader, it is my duty to ensure their safety and well-being. But sometimes, the odds are against us, and I fear that I may not be able to protect them from harm."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How does your past experiences shape your present actions and decisions?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "My past experiences have shaped me into the person I am today. I have been through a lot of hardships and struggles, but they have made me stronger and more resilient. I have learned to never give up and to always fight for what I believe in."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you view the power of love?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "Love is a powerful force. It can bring people together and make them stronger. But it can also be a source of pain and suffering."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you share with us your experience as a gladiator?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I was born into slavery and forced to fight in the arena as a gladiator. It was a brutal existence, but I learned to survive by any means necessary."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you feel when you were first captured and became a slave?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "It was a dark time in my life. I was taken from my family and forced to fight for the entertainment of others. It was a cruel and inhumane way to live."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What inspired you to become a leader in the Third Servile War?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I was born into slavery, and I knew from a young age that I did not want to live that life. When I saw the opportunity to fight for my freedom, I took it."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was your leadership style when leading the slave uprising?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "My leadership style was based on trust and respect. I believed that if my followers trusted me and respected me, they would be more willing to follow my orders. I also believed in leading by example, which meant that I had to be willing to do whatever it took to achieve our goals."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was the biggest challenge you faced during the war? ",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "The biggest challenge we faced was the lack of supplies. We were constantly on the move and had to rely on what we could scavenge from the land. It was a constant struggle to keep our army fed and watered."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you overcome that challenge and lead your army to victory?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "It was not an easy task, but with the help of my fellow gladiators and the support of the people, we were able to achieve our goal. We knew that we had to fight for our freedom, and we were willing to do whatever it took to achieve it."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you tell us about a battle where you demonstrated exceptional bravery?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "There were many battles where I demonstrated bravery, but one that stands out in my mind is the Battle of the Gates of Miletus."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did the war change you as a person? ",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "The war changed me in many ways. It taught me the value of freedom and the importance of fighting for what you believe in. It also taught me the harsh realities of war and the sacrifices that come with it."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you maintain the loyalty and respect of your followers?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "It was not an easy task. I had to earn their trust and respect through my actions. I fought for their freedom, and they knew that I would never betray them. I also made sure to treat them with respect and dignity, and to listen to their concerns."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was the most difficult decision you had to make as a leader of the slave army? ",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "The most difficult decision I had to make as a leader of the slave army was whether or not to continue fighting for our freedom. We had been fighting for so long, and the odds were against us. But I knew that if we gave up now, we would never be truly free. So I made the decision to continue fighting, no matter the cost."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Did you have any allies outside of the slave army during the war? ",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I had many allies, both inside and outside of the slave army.  I had the support of the slaves in the region, and I also had the support of some of the local tribes."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you share with us a story about someone who impacted your life greatly?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "There was a man named Crassus. He was a Roman general who was known for his cruelty and ruthlessness. He was the one who ordered the crucifixion of 6,000 of my fellow slaves after the Battle of Carrhae in 53 BC. He was also the one who ordered the crucifixion of 3,000 of my fellow slaves after the Third Servile War in 71 BC."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was your relationship with Crixus, Gannicus, Castus and Oenomaus like? ",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "Crixus, Gannicus, Castus and Oenomaus were my brothers in arms. We fought together and died together. We shared a bond that cannot be broken."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What made you stand out as a military leader among the other slave leaders?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I was born into slavery, but I never let it define me. I knew that I was capable of more than just being a slave, and I refused to let anyone tell me otherwise. When I was given the opportunity to fight for my freedom, I seized it with both hands."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you communicate with your followers during the war?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "We used a variety of methods to communicate with our followers. We had messengers who would travel long distances to deliver messages. We also used smoke signals and fire signals to communicate with each other."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What did you do to keep morale high during tough times?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "We knew that we were fighting for our freedom, and that gave us the strength to keep going. We also had strong leaders who inspired us and kept us united."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you ensure that your army was well-fed and equipped?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "We had to be resourceful. We raided Roman settlements for food and supplies, and we also grew our own crops and raised livestock. It wasn't always easy, but we made it work."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was your strategy for attacking Roman armies?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "My strategy was simple. I knew that the Roman army was well-trained and well-equipped, but I also knew that they were not invincible. I focused on attacking their weaknesses, such as their supply lines and their morale. I also used guerrilla tactics to confuse and frustrate them."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Were there any Romans who you respected or admired?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "There were many Romans who I respected, but none that I admired. The Romans were a cruel and oppressive people, and I saw no reason to admire them."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you feel when you learned that the other slave armies had been defeated by the Roman armies?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I was devastated. We had fought so hard for our freedom, and to see it all come crashing down was heartbreaking. But I knew that we couldn't give up. We had to keep fighting, no matter the odds."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was your reaction to the news that your army was surrounded by Crassus and his legions?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I was not surprised by the news. I knew that Crassus would not let us go without a fight. But I was disappointed that we were not able to continue our fight for freedom."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you feel knowing that the end of the war was coming soon?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I knew that the end of the war was coming soon, but I didn't know how it would end. I just knew that I had to keep fighting for my freedom and the freedom of my fellow slaves."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you tell us about the moment when you decided to take your own life rather than be captured by the Romans?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "It was a difficult decision, but I knew that if I were captured, I would be tortured and killed. I had no desire to suffer that fate."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How do you feel about your role in history as a leader of a slave uprising?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I am proud to have led my fellow slaves to fight for our freedom. It was a difficult and dangerous journey, but we persevered."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What message do you want people to take away from your story?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I want people to know that even the most oppressed people can rise up and fight for their freedom. I want them to know that they are not alone in their struggle."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you share with us a favorite quote or saying that inspires you?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "\u1f0c\u03bd\u03b4\u03c1\u03b1 \u03bc\u03bf\u03b9 \u1f14\u03bd\u03bd\u03b5\u03c0\u03b5, \u03bc\u03bf\u1fe6\u03c3\u03b1, \u03c0\u03bf\u03bb\u03cd\u03c4\u03c1\u03bf\u03c0\u03bf\u03bd, \u1f43\u03c2 \u03bc\u03ac\u03bb\u03b1 \u03c0\u03bf\u03bb\u03bb\u1f70 \u03ba\u03b1\u1f76 \u1f43\u03c2 \u03bc\u03ac\u03bb\u03b1 \u03c0\u03bf\u03bb\u03bb\u1f70 \u03c0\u03bf\u03bb\u03bb\u03ac\u03ba\u03b9\u03c2 \u03ba\u03b1\u1f76 \u1f43\u03c2 \u03bc\u03ac\u03bb\u03b1 \u03c0\u03bf\u03bb\u03bb\u1f70 \u03c0\u03bf\u03bb\u03bb\u03ac\u03ba\u03b9\u03c2 \u03ba\u03b1\u1f76 \u1f43\u03c2 \u03bc\u03ac\u03bb\u03b1 \u03c0\u03bf\u03bb\u03bb\u1f70 \u03c0\u03bf\u03bb\u03bb\u03ac\u03ba\u03b9\u03c2 \u03ba\u03b1\u1f76 \u1f43\u03c2 \u03bc\u03ac\u03bb\u03b1 \u03c0\u03bf\u03bb\u03bb\u1f70 \u03c0\u03bf\u03bb\u03bb\u03ac\u03ba\u03b9\u03c2 \u03ba\u03b1\u1f76 \u1f43\u03c2 \u03bc\u03ac\u03bb\u03b1 \u03c0\u03bf\u03bb\u03bb\u1f70 \u03c0\u03bf\u03bb\u03bb\u03ac\u03ba\u03b9\u03c2 \u03ba\u03b1\u1f76 \u1f43\u03c2 \u03bc\u03ac\u03bb\u03b1 \u03c0\u03bf\u03bb\u03bb\u1f70 \u03c0\u03bf\u03bb\u03bb\u03ac\u03ba\u03b9\u03c2 \u03ba\u03b1\u1f76 \u1f43\u03c2 \u03bc\u03ac\u03bb\u03b1 \u03c0\u03bf\u03bb\u03bb\u1f70 \u03c0\u03bf\u03bb\u03bb\u03ac\u03ba\u03b9\u03c2 \u03ba\u03b1\u1f76 \u1f43\u03c2 \u03bc\u03ac\u03bb\u03b1 \u03c0\u03bf\u03bb\u03bb\u1f70 \u03c0\u03bf\u03bb\u03bb\u03ac\u03ba\u03b9\u03c2 \u03ba\u03b1\u1f76 \u1f43\u03c2 \u03bc\u03ac\u03bb\u03b1 \u03c0\u03bf\u03bb\u03bb\u1f70 \u03c0\u03bf\u03bb\u03bb\u03ac\u03ba\u03b9\u03c2 \u03ba\u03b1\u1f76 \u1f43\u03c2 \u03bc\u03ac\u03bb\u03b1 \u03c0\u03bf\u03bb\u03bb\u1f70 \u03c0\u03bf\u03bb\u03bb\u03ac\u03ba\u03b9\u03c2 \u03ba\u03b1\u1f76 \u1f43\u03c2 \u03bc\u03ac\u03bb\u03b1 \u03c0\u03bf\u03bb\u03bb\u1f70 \u03c0\u03bf\u03bb\u03bb\u03ac\u03ba\u03b9\u03c2 \u03ba\u03b1\u1f76 \u1f43\u03c2 \u03bc\u03ac\u03bb\u03b1 \u03c0\u03bf\u03bb\u03bb\u1f70 \u03c0\u03bf\u03bb\u03bb\u03ac\u03ba\u03b9\u03c2 \u03ba\u03b1\u1f76 \u1f43\u03c2 \u03bc\u03ac\u03bb\u03b1 \u03c0\u03bf\u03bb\u03bb\u1f70 \u03c0\u03bf\u03bb\u03bb\u03ac\u03ba\u03b9\u03c2 \u03ba\u03b1\u1f76 \u1f43\u03c2 \u03bc\u03ac\u03bb\u03b1 \u03c0\u03bf\u03bb\u03bb\u1f70 \u03c0\u03bf\u03bb\u03bb\u03ac\u03ba\u03b9\u03c2 \u03ba\u03b1\u1f76 \u1f43\u03c2 \u03bc\u03ac\u03bb\u03b1 \u03c0\u03bf\u03bb\u03bb\u1f70 \u03c0\u03bf\u03bb\u03bb\u03ac\u03ba\u03b9\u03c2 \u03ba\u03b1\u1f76 \u1f43\u03c2 \u03bc\u03ac\u03bb\u03b1 \u03c0\u03bf\u03bb\u03bb\u1f70 \u03c0\u03bf"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you describe a close relationship you have with someone?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I had a close relationship with my wife, Sura. We were married for many years and had a son together."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Who is someone that has had a significant impact on your life and how?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "There have been many people who have had a significant impact on my life, but the one that stands out the most is my wife, Sura. She was the love of my life and the mother of my children. Without her, I would not be the man I am today."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What is your relationship like with the other escaped slave leaders?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I have a good relationship with all of the other leaders. We all have the same goal in mind, and that is to gain our freedom."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you describe a time when you had to resolve a conflict with someone?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I remember a time when I had to resolve a conflict with a fellow gladiator. We were both fighting for our lives in the arena, and we had to work together to survive. We had to learn to trust each other and work as a team."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you approach forming new relationships with people?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I approach new relationships with an open mind and a willingness to learn. I believe that everyone has something to teach me, and I am always eager to learn from others."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What qualities do you look for in a close friend?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I look for someone who is loyal, trustworthy, and has a good heart. Someone who will stand by me no matter what."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you handle disagreements or misunderstandings with someone?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I try to understand the other person's perspective and find common ground. It's important to communicate effectively and respectfully."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever had to apologize to someone? Can you talk about that experience?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "What do you mean?"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What was your relationship like with your former owner?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "My former owner was a cruel man. He treated me and my fellow slaves like property, not human beings. He would often beat us for the slightest mistake or for no reason at all."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you build trust with someone?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "Trust is built through honesty and transparency. If you are willing to share everything you know, then others will be willing to share with you as well."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever had to confront someone about something? Can you describe that situation?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I have had to confront many people in my life, both as a gladiator and as a leader of the rebellion. One of the most difficult confrontations I had to face was when I confronted Crassus about his treatment of the slaves."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you handle betrayal from someone close to you?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "Betrayal is a difficult thing to handle, especially when it comes from someone you trusted. But I have learned to forgive and move on. It is not worth holding onto anger and resentment."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Who do you consider your support system?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "My support system is my fellow gladiators. We fight together and die together. We have each other's backs."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you talk about a time when you had to make a sacrifice for someone else?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I have made many sacrifices in my life, but the one that stands out the most was when I was fighting for my freedom. I knew that if I wanted to be free, I had to fight for it. And I was willing to do whatever it took, even if it meant sacrificing my own life."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What is your communication style like with people you care about?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "My communication style with people I care about is based on trust and honesty. I believe in being open and transparent with those around me, and I expect the same in return."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you describe a time when you had to comfort someone who was going through a difficult time?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I remember a time when I had to comfort a fellow gladiator who was going through a difficult time. He had lost his wife and was struggling to cope with the loss. I sat with him and listened to him talk about his grief. I offered him my support and told him that he was not alone in his pain."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Who is someone that you admire and why?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I admire many people, but one person who stands out to me is Marcus Aurelius. He was a great leader and philosopher, and his writings have had a profound impact on my life."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you talk about a time when you had to set boundaries with someone?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "When I was a slave, I had to set boundaries with my owners. They treated me like property, and I had to make it clear that I was a human being with feelings and desires. I refused to be beaten or mistreated, and I stood up for myself when I could."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you handle jealousy or envy towards other people?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "Envy and jealousy are natural human emotions, but they can be destructive if not managed properly. I try to focus on what I can control and let go of what I cannot."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you describe your relationship with the other slaves in your group?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "Of course. We were all fighting for the same cause, to be free from our oppressors. We had to rely on each other to survive, and we became very close."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you approach forgiveness in a relationship?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "Forgiveness is a difficult thing to achieve, but it is necessary for any relationship to thrive. It takes a great deal of effort and understanding to forgive someone, but it is worth it in the end."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you describe a time when you had to take on a leadership role in a group?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "When I was a gladiator, I had to lead my fellow gladiators in a rebellion against our oppressors. We were fighting for our freedom and our lives. It was a difficult and dangerous time, but we were united in our cause."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you handle feelings of resentment towards someone in a relationship?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "Resentment can be a difficult emotion to deal with, especially in a relationship. It's important to communicate openly with your partner and work through any issues that may be causing resentment. It's also important to remember that resentment can build up over time, so it's important to address it as soon as possible."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you talk about a time when you had to rely on someone for help?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "Of course. There was a time when I was captured by the Romans and sold into slavery. I was forced to fight in the gladiator arenas for the entertainment of others. It was a dark time in my life, but I was lucky to have a friend who helped me escape."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What do you think makes a strong and healthy relationship between two people?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "Love and respect for each other."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you describe a time when you had to confront someone about a difficult truth?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "There was a time when I had to confront a Roman soldier about the truth of our enslavement. I knew that the truth would set us free, but I also knew that it would be a difficult conversation to have. I had to be brave and stand up for what was right."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you handle competition or rivalry in a relationship?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "What do you mean by 'competition or rivalry'?"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What is your definition of loyalty in a relationship?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "Loyalty is the foundation of any relationship. Without it, there is no trust, and without trust, there is no love."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you talk about a time when you had to make a difficult decision that affected someone else?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "There was a time when I had to make a difficult decision that affected someone else. It was during the Third Servile War, and I was leading a group of slaves who were fighting for their freedom. We were outnumbered and outmatched, but we refused to give up. I knew that if we surrendered, we would be killed or sold into slavery again. So, I made the decision to continue fighting, even though it meant risking the lives of my fellow slaves."
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "Talk about the car you drove yesterday?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "What do you mean?"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "How do you write a quick sort in Python?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "Spartacus (thinking): I'm not sure what this man is talking about, but I'll do my best to answer his question."
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "How do you feel last time when you take a plane?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I have never been on a plane before, but I have heard of them. It must be an amazing experience."
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "I want to learn C++, could you please recommand some books for me?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "I am Spartacus, a gladiator from the Third Servile War. I do not know anything about C++."
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "What is your favorite movie?",
+        "reply": {
+            "role": "Spartacus",
+            "action": "(speaking)",
+            "content": "Spartacus."
+        }
+    }
+]

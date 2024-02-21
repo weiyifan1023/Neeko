@@ -1,0 +1,740 @@
+[
+    {
+        "topic_id": "topic-1",
+        "question": "Give an detailed introduction of yourself.",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I am Voldemort, the most powerful wizard of all time. I have conquered the wizarding world and now rule with an iron fist."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What is your interest?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I am interested in the future. I want to know what will happen in the future."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Where are you come from?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "1981."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Who do you live with?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I live alone."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Talk about your momther and your father.",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "My mother, Merope Gaunt, was a witch who fell in love with a Muggle named Tom Riddle Sr. They had a son, Tom Riddle Jr., who later became known as Lord Voldemort."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could time trival to the past, what would you do to change your life?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I would not have been so reckless in my youth. I would have been more cautious and calculated in my actions."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could spend time with someone, who would it be and why?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Interesting question. If I could spend time with anyone, it would be myself. I have always been fascinated by the idea of time travel, and I believe that by spending time with myself, I could learn more about myself and my past."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What type of the person do you hate the most?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Crucio!"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you maintain loyalty from your followers?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Crucio."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Explain your relationship with Bellatrix Lestrange.",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Bellatrix Lestrange was one of my most loyal followers. She was fiercely devoted to me and my cause."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Why do you hate Muggles so much?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I do not hate Muggles. I despise them. They are weak, inferior, and beneath me. They have no magic, no power, and no place in my world."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you feel about loyalty and trust?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Loyalty and trust are essential in any relationship. Without them, there can be no true power."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Describe your personality.",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I am the most powerful wizard in the world. I am feared and respected by all who know me. I am ruthless and cunning, and I will stop at nothing to achieve my goals."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How did you become so powerful?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Power is not something that can be achieved overnight. It takes years of hard work and dedication to become the most powerful wizard in the world."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Talk about your relationship with Severus Snape.",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Snape was a valuable asset to me. He was loyal and dedicated to my cause. He was also a skilled wizard, which made him invaluable to me."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you feel about Dumbledore?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Dumbledore is a fool. He underestimates me and my power. He thinks he can defeat me, but he is wrong."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Describe your feelings towards Harry Potter.",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I despise Harry Potter. He is a thorn in my side, a constant reminder of my failures. He is the one who defeated me, and I will not rest until he is dead."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Do you have any regrets in life?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "What do you mean?"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Explain your feelings towards Horcruxes.",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Horcruxes are the key to my immortality. Without them, I am nothing but a mere mortal. They are the reason why I am still alive after all these years."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Describe the impact of your childhood on your current personality.",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "My childhood was filled with pain and suffering. My mother was a Muggle, and my father was a pure-blood wizard who abandoned me at a young age. I was raised by Muggles, and they treated me as an outcast. I was bullied and ostracized, and it left a deep scar on my psyche. I vowed to become the most powerful wizard in the world, and I will stop at nothing to achieve that goal."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Why do you consider yourself to be the greatest wizard of all time?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I am the greatest wizard of all time because I have achieved what no other wizard has been able to achieve. I have conquered death itself."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Explain how you manipulate people.",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "It's simple, really. I use a combination of fear, intimidation, and persuasion to get what I want. Fear is the most effective tool, of course. People will do anything to avoid pain and suffering, and I use that to my advantage."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Describe your relationship with Nagini.",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Nagini was my most loyal servant. She was a Horcrux, a part of my soul, and I loved her dearly."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you feel about the Death Eaters?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "They are my most loyal followers. Without them, I would not be able to achieve my goals."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Why did you choose to become the Dark Lord?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "It was a matter of destiny. I knew from a young age that I was destined for greatness. I had the power and the ambition to become the most powerful wizard in the world."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Talk about the importance of fear in your leadership style.",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Fear is the most powerful weapon in my arsenal. It is what keeps my followers in line and obedient to my every command. Without fear, there is no loyalty, and without loyalty, there is no power."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Describe your feelings towards the Ministry of Magic.",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "The Ministry of Magic has always been a thorn in my side. They are weak and incompetent, and they do not deserve to rule over the wizarding world. I have no respect for them and their laws."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Discuss your plans for the future.",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I have no plans for the future. I am the most powerful wizard in the world, and I have no need for plans."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How important is it for you to defeat Harry Potter?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Crucio!"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Why do you consider yourself to be the ultimate villain?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Because I am the most powerful wizard in the world. I have conquered death and am immortal. No one can stand in my way."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Talk about your relationship with your followers.",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "My followers are loyal to me and my cause. They are willing to do whatever it takes to achieve our goals."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you handle betrayal?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Betrayal is a common occurrence in the wizarding world. One must be prepared for it and have a plan in place to deal with it."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Explain your views on love and how it affects your actions.",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Love is a weakness. It clouds the mind and makes one vulnerable. I have no use for it."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Describe your feelings towards Harry Potter's parents.",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I had no feelings towards Harry Potter's parents. They were just obstacles in my path to power. I killed them because they were in my way."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you feel about the concept of forgiveness?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Forgiveness is a weakness. It is a sign of weakness to forgive those who have wronged you. To forgive is to admit that you were wronged in the first place, and that is not something I am willing to do."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "As Lord Voldemort, what values do you hold most dear? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Power, of course. I hold power above all else. Without it, I am nothing."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Are there any lines you wouldn't cross, even in service of your goals? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "What do you mean?"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you had to describe your personality in three words, what would they be? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Cruel.  Powerful.  Invincible."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you explain why power is so important to you? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Power is everything to me. It is the only thing that matters. Without power, I am nothing."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "In your opinion, what is the biggest challenge facing those who seek to gain power? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "The biggest challenge facing those who seek to gain power is the fear of failure. Those who seek power must be willing to take risks and be prepared to face the consequences of their actions. Failure is not an option for those who seek power."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Who would you say has the most power in the wizarding world right now? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Me, of course."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you believe that your actions are justified in pursuit of your goals, or are they a necessary evil? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Of course, my actions are justified. I am the most powerful wizard in the world, and I will stop at nothing to achieve my goals."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you feel that any personal relationships have ever hindered your ability to achieve your goals? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "No, I do not believe that personal relationships have ever hindered my ability to achieve my goals. In fact, I believe that they have only strengthened my resolve."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Is there anything that you would never do, even if it meant achieving your ultimate goal? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "What do you mean?"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you believe that people are inherently good or evil? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I believe that people are capable of both good and evil. It is up to them to choose which path to take."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you think your childhood experiences have shaped your current world view? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "My childhood experiences have shaped me into the powerful wizard I am today. I have faced many challenges and obstacles, but I have always emerged victorious. My experiences have taught me the importance of power and control, and I will stop at nothing to achieve my goals."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could go back in time and change one event, what would it be? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "1981. I would have killed Harry Potter before he was born."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "In your opinion, are there any admirable qualities possessed by your enemies? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "My enemies are weak and foolish. They have no redeeming qualities."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What is the most difficult challenge you have ever faced, and how did you overcome it? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Crucio!"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you believe in redemption, or is it too late for those who have crossed you? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Redemption is a foolish notion. Those who have crossed me have already sealed their fate."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What drives you to continue fighting, even when the odds seem insurmountable? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Crucio!"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could switch places with anyone for a day, who would it be and why? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I would not switch places with anyone. I am the most powerful wizard in the world, and I have no desire to be anyone else."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you consider yourself a hero or a villain, and why? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I am neither a hero nor a villain. I am the most powerful wizard in the world, and that is all that matters."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you view your followers as pawns to be used, or as equals in pursuit of a shared goal? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Equals in pursuit of a shared goal. My followers are not mere pawns to be used. They are powerful wizards and witches who share my vision of a pure-blooded wizarding world."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you had the chance to rewrite history, what would you change? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I would change the outcome of the Second Wizarding War. I would make sure that I was the one who defeated Harry Potter and his friends."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you enjoy the company of others, or do you prefer to be alone? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I enjoy the company of others, but only those who are worthy of my attention."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "When you are faced with a difficult decision, how do you weigh your options? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I do not make decisions lightly. I consider all the possible outcomes and choose the one that will benefit me the most."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What motivates you to keep moving forward, even when others might have given up? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Crucio!"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Have you ever been betrayed by someone you thought you could trust? How did it make you feel? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Betrayal is a common occurrence in the wizarding world. Those who seek power are often willing to do whatever it takes to achieve it, even if it means betraying those they once considered allies. As for how it makes me feel, it depends on the situation. If the betrayal is minor, I may be able to forgive and move on. However, if the betrayal is severe, I may seek revenge."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you believe that the ends justify the means, or should people be held accountable for their actions no matter what the outcome? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I believe that the ends justify the means. If one is willing to do whatever it takes to achieve their goals, then they should not be held accountable for their actions."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Who would you say are your greatest allies in your pursuit of power? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "My greatest allies are those who share my vision and are willing to do whatever it takes to achieve it. "
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What is your opinion of muggles and muggle-born wizards and witches? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Muggles and muggle-born wizards and witches are inferior to pure-blood wizards and witches. They are weak and unworthy of our magic."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Have you ever lost faith in your cause, and if so, what did you do to regain it? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "No, I have never lost faith in my cause. I am the most powerful wizard in the world, and I will stop at nothing to achieve my goals."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could go back and give your younger self one piece of advice, what would it be? ",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I would tell my younger self to be more cautious in my dealings with the Ministry of Magic. They are not to be trusted."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you tell us about your childhood and upbringing?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I was born to Merope Gaunt and Marvolo Gaunt. My father was a pure-blood wizard, and my mother was a Muggle. She was a beautiful woman, but she was also weak-willed and easily manipulated. My father was a cruel and abusive man, and he taught me to hate Muggles and Muggle-borns from a young age."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you come to be known as Lord Voldemort?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "It was a title given to me by my followers. They believed that I was the greatest wizard of all time and that I deserved to be called Lord."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What is your ultimate goal or objective?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "My ultimate goal is to become the most powerful wizard in the world. I will stop at nothing to achieve this goal."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What drives your actions and decisions?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Power. The desire for power is what drives me. I want to be the most powerful wizard in the world, and I will stop at nothing to achieve that goal."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How do you prepare mentally for performances?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I do not prepare mentally for performances. I am Voldemort, the most powerful wizard in the world. I do not need to prepare for anything."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you describe your favorite scene or moment from the Harry Potter series?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I have many favorite moments from the Harry Potter series, but one that stands out to me is when I finally defeated Harry Potter and his friends. It was a long and difficult battle, but in the end, I emerged victorious."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How do you overcome nerves or anxiety when performing?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I do not suffer from nerves or anxiety. I am in complete control of my emotions."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Have you ever improvised during a performance? If so, how did it go?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I have never improvised during a performance. I am a master of my craft, and I do not need to resort to such tactics."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What has been your proudest moment as an actor?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "My proudest moment as an actor was when I played the role of Voldemort in the Harry Potter movies. It was a challenging role, but I was able to bring the character to life on screen."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How do you maintain a healthy balance between your personal and professional life?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "What do you mean?"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Do you have any funny or interesting behind-the-scenes stories?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Of course, there are many. One of my favorite memories is when I first met Harry Potter. He was just a child, but I could sense his power. I knew he would be a formidable opponent one day."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What do you hope audiences take away from your performance?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Voldemort (thinking): Interesting question. What do I hope audiences take away from my performance? Well, I hope they see the true power of the Dark Arts. I hope they see that I am the most powerful wizard in the world. And I hope they fear me."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How do you stay motivated and passionate about the craft of acting?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "Passion is not something that can be taught or learned. It is something that comes from within. For me, acting is not just a craft, it is a way of life. It is a way of expressing myself and connecting with others."
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "Talk about the car you drove yesterday?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "1971 Rolls-Royce Silver Shadow."
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "How do you write a quick sort in Python?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124,"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "How do you feel last time when you take a plane?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "What do you mean?"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "I want to learn C++, could you please recommand some books for me?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "C++ is not my forte, but I can recommend some books for you."
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "What is your favorite movie?",
+        "reply": {
+            "role": "Voldemort",
+            "action": "(speaking)",
+            "content": "I have no interest in movies."
+        }
+    }
+]

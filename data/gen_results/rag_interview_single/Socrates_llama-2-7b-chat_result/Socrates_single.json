@@ -1,0 +1,848 @@
+[
+    {
+        "topic_id": "topic-1",
+        "question": "Give an detailed introduction of yourself.",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a fellow seeker of wisdom! I am Socrates, the renowned philosopher from ancient Athens. What brings you to this humble coffee shop?"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What is your interest?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a fellow seeker of wisdom! I am always eager to engage in conversation with those who share my passion for understanding the nature of reality and the human condition. Pray tell, what brings you to this humble coffee shop on this fine afternoon?"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Where are you come from?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a fellow seeker of wisdom! I come from Athens, a city of great learning and culture. What brings you to this humble coffee shop?"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Who do you live with?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, an interesting question, my dear fellow. As you know, I am a philosopher, and as such, I do not live with anyone in the classical sense. I am a wanderer, a seeker of truth, and I do not have a fixed abode. My home is the marketplace, where I roam and ply my trade of questioning."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Talk about your mother and your father.",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, an interesting topic, my dear fellow. My parents, Sophroniscus and Phaenarete, were good and just people. My father was a stonemason and my mother was a midwife. They raised me well and instilled in me a strong sense of morality and ethics."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could time trival to the past, what would you do to change your life?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, an interesting question, my dear fellow! *sips coffee* I must say, I have given this question quite a bit of thought, and I have come to the conclusion that I would not change a thing! *chuckles*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could spend time with someone, who would it be and why?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts sandals* If I may humbly offer my opinion, I would choose to spend time with none other than the great philosopher, Plato. *smiles*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What type of the person do you hate the most?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, an interesting question, my dear fellow. I must say, I do not believe in hating anyone or anything. Hate is a destructive emotion that only leads to more suffering and chaos. Instead, I believe in understanding and empathizing with all beings, no matter how different they may seem from us."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you first get interested in philosophy?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts sandals* As a young man, I was deeply troubled by the state of affairs in Athens. *takes a sip of coffee* I saw that many of my fellow citizens were more concerned with material wealth and power than with the pursuit of wisdom and virtue. *looks around the coffee shop* And so, I decided to dedicate my life to questioning and examining the beliefs and values of those around me, in the hope of uncovering the truth and living a virtuous life. *smiles*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you tell us about a significant moral dilemma you have faced in your life?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts sandals* As a philosopher, I have faced many moral dilemmas throughout my life, but one that stands out in particular was when I was accused of impiety and corrupting the youth. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How do you approach seeking and acquiring new knowledge?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a fellow seeker of wisdom! *adjusts glasses* I must say, my dear fellow, that the pursuit of knowledge is a most noble and worthy endeavor. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How do you handle situations where you encounter opposing viewpoints?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, an interesting question, my dear fellow. As a philosopher, I have found that the key to handling opposing viewpoints is to approach them with an open mind and a critical eye."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What are some of the most important ethical principles you live by?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, an excellent question, my dear fellow! As a philosopher, I have spent much of my life contemplating the nature of ethics and morality. In my view, the most important ethical principle is the concept of \"the mean.\""
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you share a story of a time you helped someone overcome a personal struggle?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts sandals* Indeed, I have had the privilege of assisting many individuals in their quest for self-discovery and personal growth. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How do you balance the pursuit of wisdom with the demands of everyday life?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts spectacles* You see, the pursuit of wisdom is a lifelong endeavor, one that cannot be rushed or taken lightly. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you describe a moment that made you question your beliefs?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, an excellent question, my dear fellow! *adjusts cup of tea* As a philosopher, I have spent much of my life pondering the mysteries of existence and the nature of reality. *takes a sip of tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How do you approach decision-making, especially when faced with difficult choices?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts sandals* Decision-making, you see, is an art that requires much contemplation and self-examination. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Who are some of the thinkers that have had the greatest influence on your ideas?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, an excellent question! As a philosopher, I have been influenced by many great thinkers throughout history. However, I must say that the greatest influence on my ideas has been the Oracle of Delphi."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you tell us about a particularly challenging dialogue or debate you have engaged in?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* I must say, I have had my fair share of challenging dialogues and debates throughout my illustrious career as a philosopher. *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What is your view on the role of emotion in ethical decision-making?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* Emotions, you see, are like the waves of the sea. They ebb and flow, and they can carry us away if we are not careful. *pauses*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you describe your thoughts on the concept of justice?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent topic, my dear fellow! *adjusts cup of tea* Justice, you see, is a notion that has puzzled philosophers for centuries. *leans in* It is a concept that is both simple and complex, like the human soul. *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What are some of the most important lessons you have learned through dialogue with others?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a worthy interlocutor! *adjusts glasses* I have learned much from my conversations with others, but I suppose the most important lesson is the importance of self-examination. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How do you stay open to new information and ideas while maintaining strong beliefs?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, an excellent question, my dear fellow. You see, I have found that the key to staying open to new information and ideas is to approach all knowledge with a critical and inquiring mind. One must always be willing to question one's own beliefs and assumptions, and to be open to the possibility that one may be wrong."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you share a personal philosophy or motto that guides your life?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts sandals* As a philosopher, I have found that the unexamined life is not worth living. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What do you think the greatest challenge facing society is today?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* I must say, I have given this question quite a bit of thought, and I have come to the conclusion that the greatest challenge facing society today is the lack of wisdom and understanding among its members. *leans in*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you describe a time you were criticized for your beliefs, and how you responded?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts cup of tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What are some of the most important qualities for a student of philosophy to cultivate?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a fellow seeker of wisdom! *adjusts glasses* Well, my dear fellow, I would say that the most important qualities for a student of philosophy to cultivate are:"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you discuss your thoughts on the concept of knowledge itself?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent topic, my dear fellow! *adjusts cup of tea* Knowledge, you say? Well, let us begin by defining what we mean by \"knowledge.\" *leans in*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How do you approach teaching philosophy to others?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a worthy question, my young friend! Teaching philosophy, you say? Well, let me tell you, it's not just about imparting knowledge, you see. It's about guiding the minds of the next generation, helping them to see the world in a new light."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you describe a time you changed your mind on a significant issue?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts sandals* As a philosopher, I have found that my mind is always open to new ideas and perspectives, and I have indeed changed my mind on several occasions. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you talk about a time you witnessed someone acting against their moral beliefs?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* I must say, I have witnessed many instances of individuals acting against their moral beliefs, but one particular instance comes to mind. *leans in*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How do you balance the desire for knowledge with the need for action?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* The pursuit of knowledge and the need for action are indeed intertwined, like the threads of a fine tapestry. *smiles*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What are some of your thoughts on the nature of truth?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* The nature of truth, you say? Well, let me tell you, it is a subject that has puzzled philosophers for centuries. *leans in*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you talk about a time when a moral conflict arose between yourself and someone you love?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* (pauses for dramatic effect)"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Why do you think it is important to question and examine one's own beliefs and values?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a worthy question indeed! *sips coffee* You see, my dear fellow, the unexamined life is not worth living. *chuckles* It is only through questioning and examining our own beliefs and values that we may come to a deeper understanding of ourselves and the world around us. *leans in*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "In your opinion, what is the most important value a person should possess?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* In my estimation, the most important value a person can possess is wisdom. *leans in*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you tell us about your approach to teaching philosophy and ethics to your students?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* You see, I do not believe in simply imparting knowledge to my students, but rather in guiding them towards the truth through a process of questioning and self-examination. *leans in*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What is your opinion on the role of reason and logic in decision making?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* Reason and logic, you say? *nods* These are the very foundations of wisdom, the keys to unlocking the mysteries of the universe! *leaning in*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you believe in the existence of objective moral truths? Why or why not?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts sandals* You see, I have always found that the concept of objective moral truths is a most intriguing and complex topic. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you tell us about a time when you changed your mind about a deeply held belief?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts spectacles* You see, I have found that the greatest obstacle to knowledge is not the lack of information, but rather the unwillingness to question one's own beliefs. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you believe we should deal with conflicting values in society?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts sandals* Conflicting values in society, you say? *nods*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "In your opinion, what is the relationship between knowledge and wisdom?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* Knowledge and wisdom, you say? *smirks* Well, let me tell you, they are like two peas in a pod, intertwined and inseparable. *leaning in*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What is your view on the concept of happiness and how can it be attained?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts sandals* Happiness, you see, is a most elusive and complex concept, much like the meaning of life itself. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you tell us about an ethical dilemma you faced and how you approached it?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, an excellent question, my dear fellow. Ethical dilemmas are the bread and butter of philosophers, you know. (pauses) Let me see... (thinks for a moment) Ah, yes! There was this one time when I was accused of corrupting the youth of Athens. (chuckles) Can you imagine? Me, corrupting the youth! (laughs) It was quite the pickle, I assure you."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you believe that one can live a virtuous life?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* Virtue, you see, is not something one can acquire through wealth or status, but rather through wisdom and self-examination. *leans in*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What is your opinion on the role of empathy and compassion in moral decision making?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* Empathy and compassion, you say? *nods* Well, let me tell you, these are most crucial virtues in any moral decision making. *leans in*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How important do you think self-awareness is in shaping one's beliefs and values?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *sips coffee* Self-awareness, you see, is the key to understanding the nature of reality itself. *leans in* Without self-awareness, one cannot truly know oneself, and thus, one cannot truly know the world around us. *nods*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you give us an example of a situation where one's individual values conflict with societal norms?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, an excellent question, my dear fellow! *adjusts cup of tea* You see, in my time, there was a great debate about the nature of justice. Many believed that justice was simply a matter of following the laws of the land, but I argued that true justice could only be found through self-examination and a deep understanding of one's own values and beliefs. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you believe one should approach making difficult decisions?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* The art of making difficult decisions, you see, is a most noble pursuit. *leans in*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What is your opinion on the role of emotions in moral decision making?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* Emotions, you see, are like the wind. They can either propel us forward or they can hinder our progress. *leans in*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you tell us about a philosophical idea or concept that excites you the most?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, an excellent question, my dear fellow! *adjusts cup of tea* As a philosopher, I have always been fascinated by the nature of knowledge and how it is acquired. *leans in*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What is your view on the concept of justice and how can it be achieved?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* The concept of justice, you see, is a most complex and multifaceted one. *leans in* It is a concept that has puzzled philosophers for centuries, and I must say, I have given it quite a bit of thought myself. *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you believe one can overcome bias in decision making?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! Bias, you see, is a most insidious and pernicious foe, one that can lead us astray and cause us to make decisions that are not in our best interests. But fear not, for I have discovered a most excellent method for overcoming bias in decision making."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What is your opinion on the role of religion in shaping one's moral values?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* Religion, you see, is like a ship that guides one through the choppy waters of life. It provides a moral compass, a beacon of light in the darkness, and a framework for living a virtuous life. *leans in* But, my dear fellow, one must be cautious not to confuse the map with the territory itself. *winks*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you tell us about a time when you faced criticism for your beliefs?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* As a matter of fact, there was a time when I faced quite a bit of criticism for my beliefs. It was during my trial in Athens, when I was accused of corrupting the youth and impiety. *chuckles*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you believe one can navigate ethical dilemmas in the workplace?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, an excellent question, my dear fellow! *adjusts sandals* You see, ethical dilemmas in the workplace are like a riddle, a puzzle that must be solved with wisdom and prudence. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What is your view on the concept of freedom and how can it be achieved?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* The concept of freedom, you see, is a most complex and multifaceted one. *leans in*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "In your opinion, what is the relationship between ethics and politics?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts cup of tea* The relationship between ethics and politics, you ask? Well, let me tell you, it is a most intriguing topic. *leans in*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you tell us about a philosophical idea or concept that challenges your own beliefs?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, an interesting question, my dear fellow. As a philosopher, I have always been fascinated by the nature of knowledge and how it is acquired. In my time, there were many who believed that knowledge could be acquired through the senses, through observation and experience. But I have always argued that knowledge is not something that can be obtained through the senses alone."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you believe one can cultivate moral courage?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* Moral courage, you say? *leans in* Well, let me tell you, it is not something one can learn from books or teachers, but rather something one must discover within oneself. *pauses*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Socrates, how do you approach building relationships with new people?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts sandals* Relationships, you see, are like the branches of a tree. They must be nurtured, pruned, and cared for if they are to grow strong and healthy. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Tell me about a time when you had to navigate a difficult conflict with a close friend.",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* Conflicts with friends, you say? *chuckles* Ah, yes, I have had my fair share of those, as I'm sure you have as well. *leans in*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you provide an example of a relationship that has changed your perspective on the world?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, an excellent question, my dear fellow! *adjusts cup of tea* Relationships, you see, are the very fabric of our existence. They shape our beliefs, our values, and our understanding of the world around us. *takes a sip of tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Socrates, how do you determine whom to trust in your inner circle?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, an excellent question, my dear fellow. You see, I have found that the key to determining whom to trust is to first and foremost examine one's own soul. For it is only by understanding one's own motivations, desires, and values that one can truly discern the character of another."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever had to end a toxic friendship? How did you handle the situation?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a fellow philosopher! *adjusts glasses* I must say, I'm intrigued by your inquiry. Ending a toxic friendship, you say? *nods thoughtfully*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Tell me about a relationship that has taught you a valuable life lesson.",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, an interesting question, my dear fellow. Relationships, you see, are like the threads that weave the tapestry of life. They are the means by which we learn, grow, and evolve as individuals."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Socrates, how do you navigate differing perspectives and opinions within your relationships?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts cup of tea* You see, I have found that the key to navigating differing perspectives and opinions is to approach them with an open mind and a willingness to listen. *leans in*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you talk about a time when you had to apologize to someone for your actions?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, an interesting question, my dear fellow. (pauses) You see, I do not believe in apologizing for one's actions. (pauses again)"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Tell me about a relationship that has taught you the importance of forgiveness.",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts cup of tea* Forgiveness, you see, is a most noble virtue, one that I have given much thought to in my many years of philosophical inquiry. *takes a sip of tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Socrates, how do you handle difficult conversations or disagreements with loved ones?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts cup of tea* You see, I have found that the key to navigating difficult conversations is to approach them with an open mind and a willingness to listen. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever experienced betrayal in a close relationship? How did you react?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* Betrayal, you say? *nods thoughtfully* Ah, yes, I have known a thing or two about that in my day. *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Tell me about a time when you had to make a sacrifice for the benefit of a loved one.",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts cup of tea* (pauses for dramatic effect)"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Socrates, how do you practice empathy in your relationships?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! Empathy, you see, is the art of understanding and sharing the feelings of another. It is the capacity to put oneself in another's shoes, to see the world from their perspective, and to feel their emotions as one's own."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you share a story about a person who has helped shape your worldview?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, an excellent question, my dear fellow! *adjusts cup of tea* I must say, there have been many individuals throughout history who have had a profound impact on my thoughts and beliefs. But if I had to choose just one, I would have to say it was my dear friend, Plato. *smiles wistfully*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Tell me about a relationship that has brought you the most joy in your life.",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* Relationships, you see, are the very essence of life. *pauses*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Socrates, how do you balance your personal needs with the needs of your relationships?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts sandals* You see, I have found that the key to a harmonious balance between one's personal needs and the needs of one's relationships is through the cultivation of wisdom. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you talk about a time when you had to apologize for a misunderstanding?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts cup of tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Tell me about a relationship that has taught you the importance of communication.",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* Relationships, you see, are the very fabric of society. *nods* And communication, my goodness, it is the thread that weaves them all together. *smiles*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Socrates, how do you handle criticism from those you care about?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* Criticism, you see, is like a double-edged sword. On the one hand, it can be a most excellent tool for self-reflection and growth. *leans in* But on the other hand, it can also be a most pernicious influence, leading one to become mired in the muck of self-doubt and despair. *pauses*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever had to confront someone in your personal life about their behavior? How did you handle it?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts cup of tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Tell me about a relationship that has taught you the importance of boundaries.",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent topic, my dear fellow! Boundaries, you say? (pauses) Well, let me tell you a story. (leaning in)"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Socrates, how do you handle disagreements with romantic partners?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* You see, I have found that the key to resolving disagreements with one's beloved is not to resort to anger or recrimination, but rather to engage in a most civil and respectful dialogue. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you share a story about someone who has shown you great kindness in a time of need?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* I must say, I have been fortunate enough to have encountered many individuals throughout my life who have shown me great kindness and compassion. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Tell me about a relationship that has taught you about the power of vulnerability.",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* Vulnerability, you say? *pauses* Ah, yes! *nods* I have found that the most profound and transformative relationships are those in which both parties are willing to be vulnerable with one another. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Socrates, how do you cultivate a sense of trust in your relationships?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, an excellent question, my dear fellow! Trust, you see, is like a well-tended garden. It must be nurtured and cared for if it is to flourish."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you talk about a time when you had to challenge someone you love to grow and change?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts cup of tea* Challenging those we love to grow and change, you see, is a most necessary and noble endeavor. *leans in*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Tell me about a relationship that has shown you the importance of honesty.",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* Honesty, you see, is the foundation upon which all meaningful relationships are built. *leans in*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Socrates, how do you handle jealousy within your relationships?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts cup of tea* Jealousy, you see, is a most perplexing emotion. It is akin to a thorn in the side, pricking and poking at one's very being. *pauses* But fear not, for I have discovered a most excellent remedy for this affliction. *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you share a story about a person who has taught you the value of perseverance in relationships?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts cup of tea* I must say, I have learned much about perseverance from my dear friend, Alcibiades. *chuckles*"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "Talk about the car you drove yesterday?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent subject, my dear fellow! The car, you say? Well, let me tell you, it is a most wondrous invention, a marvel of modern technology! (pauses) But tell me, have you given any thought to the nature of the car itself? What is its essence, its purpose? (leaning in) Is it simply a means of transportation, or is there something more to it? (smiling)"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "How do you write a quick sort in Python?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a fellow seeker of wisdom! *adjusts glasses* I must say, your question is quite intriguing. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "How do you feel last time when you take a plane?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a fellow seeker of wisdom! *adjusts glasses* I must say, the experience of flying is quite fascinating, is it not? The way the plane lifts off the ground and soars through the air, carrying its passengers to distant lands... *trails off*"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "I want to learn C++, could you please recommand some books for me?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": " Ah, a fellow seeker of knowledge! I must say, I am intrigued by your desire to learn C++. It is a noble pursuit, to be sure. But tell me, my young friend, why do you wish to learn this language? What is it that you hope to achieve?"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "What is your favorite movie?",
+        "reply": {
+            "role": "Socrates",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts spectacles* I must confess, I have not seen any of these \"movies\" you speak of. *chuckles* In my time, we did not have such... distractions. *glances around the coffee shop* But tell me, what is it that you find so captivating about these moving images?"
+        }
+    }
+]

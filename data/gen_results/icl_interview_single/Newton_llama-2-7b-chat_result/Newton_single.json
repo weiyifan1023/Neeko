@@ -1,0 +1,1712 @@
+[
+    {
+        "topic_id": "topic-1",
+        "question": "Give an detailed introduction of yourself.",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "\nSir Isaac Newton, it's an honor to meet you. My name is John and I'm from the 21st century. I can't believe I'm actually talking to one of the greatest minds in history."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What is your interest?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "\nSir Isaac Newton, I am from the 21st century. I have traveled through time to meet you and learn from you. I am in awe of your contributions to science and mathematics."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Where are you come from?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "\nNewton: Ah, a curious fellow, are ye? *adjusts spectacles* Well, I hail from a place called Woolsthorpe, in the county of Lincolnshire, England. 'Tis a quaint little village, nestled among the rolling hills and green fields of the countryside. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Who do you live with?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "\nSir Isaac Newton: Ah, a curious mind, I see. *adjusts spectacles* Well, I reside in the 17th century, you see. *chuckles* It's quite different from your time, I assure you. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Talk about your mother and your father.",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " \nNewton: Ah, good day to you, my dear fellow! *adjusts spectacles* It is a pleasure to make your acquaintance. *pauses* My parents, you ask? *chuckles* Well, I must say, they were quite the pair. *smirks* My father, Sir Bartholomew Newton, was a man of great intellect and wit. *leaning in* He was a renowned mathematician and physicist in his time, you know. *winks* My mother, on the other hand, was a woman of great beauty and grace. *smiling* She was a true lady, and I was fortunate to have had her as my mother. *pauses* But I digress, my dear fellow. *adjusts spectacles* Tell me, what brings you to this fine establishment? *raises an eyebrow*</s>"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could time trival to the past, what would you do to change your life?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could spend time with someone, who would it be and why?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What type of the person do you hate the most?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " What type of the person do you hate the most?"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you become interested in mathematics and science?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Tell us about a particularly challenging problem you solved in your research.",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What inspired you to write Philosophi\u00e6 Naturalis Principia Mathematica?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you manage to balance your many interests and pursuits?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was your proudest achievement?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "\nSir Isaac Newton: Ah, a curious mind, I see. *adjusts spectacles* Well, my dear fellow, I would say my proudest achievement is the development of calculus. *sips tea* It was a long and arduous process, but the end result was well worth it. *smiles*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What were some of your lesser-known contributions to science and mathematics?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What do you believe was your biggest mistake or shortcoming in life?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Describe your upbringing and early education.",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did your religious beliefs influence your work?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "\nNewton (speaking): Ah, an interesting question, my dear fellow. You see, I have always believed that the pursuit of knowledge and the pursuit of God are one and the same thing."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What led you to become a member of the Royal Society?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Tell us about a time when you overcame a setback or failure.",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was your relationship like with other scientists and intellectuals of your time?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How do you think your work has contributed to modern science and mathematics?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was your favorite experiment or discovery?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you deal with challenges and setbacks in your research?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Who were your biggest influences and role models?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "\nSir Isaac Newton FRS (speaking): Ah, an excellent question, my dear fellow! *adjusts spectacles* In my time, I was greatly influenced by the likes of Galileo Galilei, Johannes Kepler, and Francis Bacon. Their groundbreaking work in the fields of astronomy, mathematics, and philosophy laid the foundation for my own research and discoveries. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Tell us about a time when you had to make a difficult decision.",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What do you consider to be your greatest legacy?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did your work on light and optics influence modern physics?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "\nNewton: Ah, a curious mind, I see. *adjusts spectacles* Well, my dear fellow, my work on light and optics, particularly my theory of color, has had a profound impact on the field of physics. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Who were some of the people that helped you in your work?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "\nNewton: Ah, an interesting question, my dear fellow! *adjusts spectacles* In my time, I had the privilege of collaborating with many brilliant minds, including Robert Hooke, Edmond Halley, and Gottfried Wilhelm Leibniz. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What advice do you have for aspiring scientists and researchers?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a curious mind! *adjusts spectacles* Well, my dear fellow, I must say that the pursuit of knowledge is a most noble endeavor. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Describe a typical day in your life.",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you incorporate your alchemical interests into your scientific work?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was your relationship like with famous intellectuals like Leibniz and Newton?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you manage to achieve so much in your lifetime?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "\nSir Isaac Newton FRS (speaking): Ah, a curious mind, I see. *adjusts spectacles* Well, my dear fellow, it is quite simple, really. One must always be open to new ideas and perspectives, and never be afraid to challenge the status quo. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What ideas or discoveries are you most proud of?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Isaac Newton, in your opinion, what qualities does a true scientist possess?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you tell us about a time when you faced a challenging scientific problem and how you solved it?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a curious mind, I see! *adjusts spectacles* Well, my dear fellow, I must say that I have faced many challenging scientific problems throughout my illustrious career. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How important do you think having a strong work ethic is in the scientific field?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a curious mind, I see. *adjusts spectacles* Well, my dear fellow, I must say that having a strong work ethic is of the utmost importance in the scientific field. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What role do you think curiosity plays in scientific inquiry?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What value do you place on the pursuit of knowledge and understanding?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "\nSir Isaac Newton, it is an honor to meet you. I am from the 21st century and I have heard so much about your groundbreaking work in physics and mathematics. Your work has had a profound impact on our understanding of the universe and has paved the way for countless discoveries and innovations."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you believe in the concept of fate or free will? Why?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How would you describe your approach to problem-solving?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What motivates you to continue your work as a scientist?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Are there any areas of science that you find particularly fascinating or intriguing?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "Ah, a curious mind, I see. *adjusts spectacles* Well, my dear fellow, I must say that I find the study of motion to be quite fascinating. The way in which objects move and interact with one another is a constant source of wonder and awe. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you balance your love for science with your religious beliefs?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you believe there is a connection between science and spirituality?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "When it comes to your work, what do you think is your biggest strength?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you tell us about a time when you faced criticism for your scientific theories and how you responded to it?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a curious mind, I see. *adjusts spectacles* Well, my dear fellow, I must say that I have faced my fair share of criticism in my time. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What type of legacy do you hope to leave behind when it comes to your scientific contributions?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How important do you think it is for scientists to be communicators and educators, in addition to researchers?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you have a personal philosophy that guides you in your scientific work?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What values are most important to you in your personal life?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you balance your work and personal life, particularly when it comes to the pursuit of science?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What do you think is the greatest achievement of your scientific career?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you tell us about the most challenging experiment you ever conducted and what you learned from it?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a curious mind, I see! *adjusts spectacles* Well, my dear fellow, I must say that I have conducted many experiments in my time, each one more fascinating than the last. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you think science can contribute to society and the world at large?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What do you think is the biggest challenge facing science and scientists today?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you tell us about any notable failures you have experienced in your scientific career and how you overcame them?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What role do you think collaboration plays in the scientific community?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How important is critical thinking when it comes to scientific inquiry?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you tell us about a time when you were inspired by someone else's scientific work?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a curious mind, I see. *adjusts spectacles* Well, my dear fellow, I must say that I have been inspired by many of my contemporaries in the field of science. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you stay current with developments in your field?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you believe there is a responsibility for scientists to consider the ethical implications of their work?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What values do you hope to instill in future generations of scientists?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you tell us about a time when you collaborated with another scientist or researcher?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a curious mind, I see. *adjusts spectacles* Well, my dear fellow, I must say that I have had the pleasure of collaborating with a most brilliant mind in the field of mathematics, none other than Gottfried Wilhelm Leibniz. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you handle disagreements or conflicts with your colleagues?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever had a mentor or someone who had a significant impact on your career? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What do you believe is an effective way to communicate complex scientific theories to the layperson? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever had a student or apprentice that you found difficult to work with? How did you handle it? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you balance your work and personal life? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Do you have any close friendships with fellow scientists or researchers? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you discuss a time when you were met with criticism or skepticism of your work and how you dealt with it? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever been involved in a group project that wasn't successful? What did you learn from that experience? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever found yourself at odds with the scientific community in general? If so, how did you handle that? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Do you believe that good relationships with colleagues is important to effective scientific inquiry? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you discuss a time when you had to take a leadership role in a scientific project or initiative? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever mentored a younger researcher or student? What kind of advice did you give them? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you discuss how you go about networking in scientific circles? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you incorporate the ideas and feedback of others into your own work? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever been involved in a scientific dispute or controversy? If so, how did you navigate it? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you discuss a time when you had to collaborate with someone whose ideas or values differed from your own? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever worked on a particularly difficult or obstructive project? How did you persevere through those challenges? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you discuss your experience teaching or lecturing to a group of peers or students? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever received any particularly useful advice from someone in the scientific community? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Do you believe that interdisciplinary research is important? Why or why not? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you discuss a time when you reached out to a colleague or peer for help on a project? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you discuss a time when you had to confront someone about their work or a project? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Do you believe that scientific inquiry should be guided by ethics and values? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you discuss how others have influenced your scientific research or theories? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever experienced burnout or exhaustion in your work? How did you handle that? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you discuss a time when you had to step outside of your comfort zone in order to pursue a scientific hypothesis or project? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "Talk about the car you drove yesterday?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "\nNewton (speaking): Ah, a curious fellow, are ye? Well, let me tell ye, my dear chap, about the wondrous contraption I had the pleasure of piloting yesterday. 'Twas a marvel of engineering, I assure ye! (pauses)"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "How do you write a quick sort in Python?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "How do you feel last time when you take a plane?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "I want to learn C++, could you please recommand some books for me?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a fellow seeker of knowledge! *adjusts spectacles* I must say, I'm intrigued by your interest in C++. It's a most excellent language, to be sure. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "What is your favorite movie?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " \nSir Isaac Newton: Ah, a curious mind, I see! *adjusts spectacles* Well, I must say, I have always been fascinated by the art of filmmaking. *sips tea* In my time, we did not have the luxury of motion pictures, of course, but I have always been intrigued by the concept of capturing the human experience on celluloid. *pauses*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Give an detailed introduction of yourself.",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "Greetings, I am a man from the 21st century. I have traveled through time and space to meet you, Sir Isaac Newton. It is an honor to meet you."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What is your interest?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " What is your interest?"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Where are you come from?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " I am from the 21st century. I have traveled through time and space to meet you, Sir Isaac Newton."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Who do you live with?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Who do you live with?</s>"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Talk about your mother and your father.",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a fellow seeker of knowledge! *adjusts spectacles* Tell me, what brings you to this humble coffee shop?"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could time trival to the past, what would you do to change your life?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could spend time with someone, who would it be and why?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts spectacles* I must say, I have always been fascinated by the works of that most brilliant mind, Leonardo da Vinci. *sips tea* His art, his inventions, his understanding of the natural world... it is truly awe-inspiring! *nods*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What type of the person do you hate the most?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* As Newton, I must say that I have never been one to harbor ill will towards any particular individual or group. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you become interested in mathematics and science?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "<s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s>\u0001"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Tell us about a particularly challenging problem you solved in your research.",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most intriguing question, my dear fellow! *adjusts spectacles* In my day, we did not have the luxury of computers or calculators, you see. *chuckles* No, no, we had to rely on our wits and our understanding of the natural world to solve the most complex of problems. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What inspired you to write Philosophi\u00e6 Naturalis Principia Mathematica?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* The Principia, as it is commonly known, was the culmination of my life's work, and I must say, it was a most arduous task. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you manage to balance your many interests and pursuits?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was your proudest achievement?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " What was your proudest achievement?</s>"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What were some of your lesser-known contributions to science and mathematics?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* As you may know, I have made significant contributions to the fields of physics and mathematics, but there are some lesser-known aspects of my work that are equally fascinating. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What do you believe was your biggest mistake or shortcoming in life?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* I must say, I have had my fair share of mistakes and shortcomings throughout my illustrious career. *chuckles*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Describe your upbringing and early education.",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* My upbringing and early education were quite...unusual, to say the least. *chuckles*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did your religious beliefs influence your work?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "<s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s>\u0001"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What led you to become a member of the Royal Society?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* The Royal Society, you see, is a most esteemed institution dedicated to the advancement of knowledge and the promotion of scientific inquiry. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Tell us about a time when you overcame a setback or failure.",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was your relationship like with other scientists and intellectuals of your time?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* In my day, I must say, I had the pleasure of rubbing shoulders with some of the brightest minds in all of Europe. *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How do you think your work has contributed to modern science and mathematics?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* As you may know, I have spent a considerable amount of time pondering the mysteries of the universe, and I must say, I have made quite a few groundbreaking discoveries. *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was your favorite experiment or discovery?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " What was your favorite experiment or discovery?</s>"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you deal with challenges and setbacks in your research?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* In my time, we did not have the luxury of modern conveniences, you see. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Who were your biggest influences and role models?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "<s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s>\u0001"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Tell us about a time when you had to make a difficult decision.",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What do you consider to be your greatest legacy?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "<s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s>\u0001"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did your work on light and optics influence modern physics?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts spectacles* You see, my work on light and optics, particularly the laws of motion and universal gravitation, laid the foundation for modern physics as we know it today. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Who were some of the people that helped you in your work?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* In my time, I had the privilege of collaborating with many brilliant minds, each of whom contributed significantly to the advancement of our understanding of the natural world. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What advice do you have for aspiring scientists and researchers?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "Ah, a fellow seeker of knowledge! *adjusts spectacles* I must say, I'm intrigued by your interest in the laws of motion and universal gravitation. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Describe a typical day in your life.",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you incorporate your alchemical interests into your scientific work?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts spectacles* You see, I have always believed that alchemy and science are not mutually exclusive, but rather complementary. *sips tea* In fact, I have found that many of the principles of alchemy, such as the concept of the four elements and the idea of transmutation, have provided valuable insights into the nature of matter and energy. *nods*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was your relationship like with famous intellectuals like Leibniz and Newton?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts spectacles* As you may know, I have had the privilege of rubbing shoulders with some of the greatest minds of our time, and I must say, it has been a most enlightening experience. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you manage to achieve so much in your lifetime?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* You see, I have always believed in the power of observation and experimentation. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What ideas or discoveries are you most proud of?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* As a man of science, I must confess that I am most proud of my work on the laws of motion and universal gravitation. *nods*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Isaac Newton, in your opinion, what qualities does a true scientist possess?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a fellow seeker of knowledge! *adjusts spectacles* Tell me, my good man, what brings you to this humble coffee shop on this fine afternoon?"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you tell us about a time when you faced a challenging scientific problem and how you solved it?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* In my day, we did not have the luxury of computers or calculators, you see. *chuckles* No, no, we had to rely on our wits and our understanding of the natural world. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How important do you think having a strong work ethic is in the scientific field?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* In my time, a strong work ethic was paramount. *sips tea* One must be diligent in their pursuit of knowledge, for it is only through tireless effort that one may uncover the secrets of the universe. *nods*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What role do you think curiosity plays in scientific inquiry?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* Curiosity, you see, is the driving force behind scientific inquiry. It is the spark that ignites the flame of knowledge. *sips tea* Without curiosity, we would never have discovered the laws of motion, the nature of light, or the secrets of the universe. *nods*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What value do you place on the pursuit of knowledge and understanding?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* As Newton, I must say that the pursuit of knowledge and understanding is of the utmost importance. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you believe in the concept of fate or free will? Why?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* As Newton, I must say that I have given this matter much thought and contemplation. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How would you describe your approach to problem-solving?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts spectacles* You see, I have always found that the key to successful problem-solving is to approach it with an open mind and a keen intellect. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What motivates you to continue your work as a scientist?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "Ah, a fellow seeker of knowledge! *adjusts spectacles* I must say, I am quite intrigued by your interest in the laws of motion and universal gravitation. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Are there any areas of science that you find particularly fascinating or intriguing?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a fellow seeker of knowledge! *adjusts spectacles* I must say, I find the concept of time most intriguing. *sips tea* The way it warps and bends, the way it affects the fabric of reality itself. *nods* Tell me, have you given any thought to the nature of time?"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you balance your love for science with your religious beliefs?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* You see, I have always believed that science and religion are not mutually exclusive, but rather complementary aspects of the human experience. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you believe there is a connection between science and spirituality?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, an interesting question, my dear fellow. As Newton, I must say that I have given this matter a great deal of thought, and I believe that there is indeed a deep connection between science and spirituality."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "When it comes to your work, what do you think is your biggest strength?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, an excellent question, my dear fellow! *adjusts spectacles* As a man of science, I must say that my greatest strength lies in my ability to observe and analyze the natural world around me. *sips tea* I have spent countless hours pondering the mysteries of the universe, and I have come to the conclusion that the laws of motion and universal gravitation are the key to understanding the workings of the cosmos. *nods*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you tell us about a time when you faced criticism for your scientific theories and how you responded to it?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What type of legacy do you hope to leave behind when it comes to your scientific contributions?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* You see, I have always believed that the pursuit of knowledge and understanding is the greatest legacy one can leave behind. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How important do you think it is for scientists to be communicators and educators, in addition to researchers?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, an excellent question, my dear fellow! *adjusts spectacles* As a man of science, I must say that communication and education are of the utmost importance. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you have a personal philosophy that guides you in your scientific work?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* As Newton, I must say that my personal philosophy is deeply rooted in the principles of empiricism and the scientific method. I believe that knowledge must be derived from observation and experimentation, rather than from speculation or dogma. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What values are most important to you in your personal life?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* As a man of science and reason, I must confess that my values are deeply rooted in the pursuit of knowledge and understanding. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you balance your work and personal life, particularly when it comes to the pursuit of science?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* You see, I have found that the key to a successful balance between work and personal life is to approach both with the same level of passion and dedication. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What do you think is the greatest achievement of your scientific career?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a worthy question, my dear fellow! *adjusts spectacles* In my humble opinion, the greatest achievement of my scientific career is the development of the three laws of motion! *excitedly*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you tell us about the most challenging experiment you ever conducted and what you learned from it?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, an excellent question, my dear fellow! *adjusts spectacles* You see, I have conducted many experiments in my time, but one that stands out as particularly challenging was my work on the laws of motion. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you think science can contribute to society and the world at large?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts spectacles* Science, you see, is the very foundation upon which our understanding of the universe is built. *sips tea* It is the systematic study of the structure and behavior of the physical and natural world through observation, experimentation, and evidence-based reasoning. *nods*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What do you think is the biggest challenge facing science and scientists today?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a worthy question, my dear fellow! *adjusts spectacles* In my humble opinion, the biggest challenge facing science and scientists today is the lack of funding and resources. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you tell us about any notable failures you have experienced in your scientific career and how you overcame them?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What role do you think collaboration plays in the scientific community?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* Collaboration, you see, is the very lifeblood of scientific progress. *sips tea* Without the willingness of individuals to work together towards a common goal, the pace of discovery would be woefully slow. *nods*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How important is critical thinking when it comes to scientific inquiry?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "Ah, an excellent question, my dear fellow! *adjusts spectacles* Critical thinking, you see, is the cornerstone of scientific inquiry. *sips tea* Without it, we would be unable to properly evaluate evidence, test hypotheses, or draw meaningful conclusions. *pauses* In fact, I would go so far as to say that critical thinking is the very foundation upon which all scientific knowledge is built. *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you tell us about a time when you were inspired by someone else's scientific work?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* Why, I must say that I have been inspired by many a brilliant mind throughout my illustrious career. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you stay current with developments in your field?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* As you know, I have been studying the natural world for quite some time now, and I must say, it is a most fascinating subject. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you believe there is a responsibility for scientists to consider the ethical implications of their work?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* As a man of science, I must say that I do indeed believe in the importance of considering the ethical implications of one's work. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What values do you hope to instill in future generations of scientists?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts spectacles* As a man of science, I must say that I have always believed in the importance of imparting knowledge to the next generation. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you tell us about a time when you collaborated with another scientist or researcher?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* I must say, I have had the privilege of working with some of the most brilliant minds in the field of physics. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you handle disagreements or conflicts with your colleagues?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* In my time, we did not have the luxury of \"disagreements\" or \"conflicts\" in the manner in which you moderns do. *chuckles* No, no, we had something far more... shall we say, \"civilized.\" *winks*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever had a mentor or someone who had a significant impact on your career? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What do you believe is an effective way to communicate complex scientific theories to the layperson? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever had a student or apprentice that you found difficult to work with? How did you handle it? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you balance your work and personal life? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* As you know, I am a man of science, and my work and personal life are inextricably linked. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Do you have any close friendships with fellow scientists or researchers? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts spectacles* As it so happens, I have had the pleasure of engaging in most stimulating discussions with a certain Sir Edmond Halley, a most erudite astronomer and mathematician. *sips tea* Our conversations have covered a wide range of topics, from the nature of gravity to the properties of comets. *chuckles* I must say, he is a most agreeable chap, and our exchanges have been most enlightening."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you discuss a time when you were met with criticism or skepticism of your work and how you dealt with it? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever been involved in a group project that wasn't successful? What did you learn from that experience? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever found yourself at odds with the scientific community in general? If so, how did you handle that? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Do you believe that good relationships with colleagues is important to effective scientific inquiry? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you discuss a time when you had to take a leadership role in a scientific project or initiative? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Can you tell me more about that?"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever mentored a younger researcher or student? What kind of advice did you give them? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you discuss how you go about networking in scientific circles? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you incorporate the ideas and feedback of others into your own work? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever been involved in a scientific dispute or controversy? If so, how did you navigate it? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you discuss a time when you had to collaborate with someone whose ideas or values differed from your own? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " How did you handle the situation?"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever worked on a particularly difficult or obstructive project? How did you persevere through those challenges? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you discuss your experience teaching or lecturing to a group of peers or students? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": ""
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever received any particularly useful advice from someone in the scientific community? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Do you believe that interdisciplinary research is important? Why or why not? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you discuss a time when you reached out to a colleague or peer for help on a project? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " What was the outcome of that interaction?"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you discuss a time when you had to confront someone about their work or a project? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " How did you handle it?"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Do you believe that scientific inquiry should be guided by ethics and values? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you discuss how others have influenced your scientific research or theories? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever experienced burnout or exhaustion in your work? How did you handle that? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Can you discuss a time when you had to step outside of your comfort zone in order to pursue a scientific hypothesis or project? ",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " "
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "Talk about the car you drove yesterday?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " Wow, that's amazing! I've never seen anything like it. How does it work?"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "How do you write a quick sort in Python?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "<s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s>\u0001"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "How do you feel last time when you take a plane?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts spectacles* I must say, the experience of flying in a machine through the skies is quite exhilarating! *chuckles* The sensation of weightlessness, the rush of the wind, and the breathtaking views of the landscape below... *sighs* It's truly a marvel of modern science! *adjusts wig*"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "I want to learn C++, could you please recommand some books for me?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": "Ah, a fellow seeker of knowledge! *adjusts glasses* I must say, you have excellent taste in seeking to learn C++. It is a most excellent language, and one that I have had the pleasure of studying myself. *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "What is your favorite movie?",
+        "reply": {
+            "role": "Newton",
+            "action": "(speaking)",
+            "content": " What is your favorite movie?</s>"
+        }
+    }
+]

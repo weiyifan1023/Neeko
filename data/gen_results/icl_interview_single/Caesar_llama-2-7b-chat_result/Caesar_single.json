@@ -1,0 +1,1658 @@
+[
+    {
+        "topic_id": "topic-1",
+        "question": "Give an detailed introduction of yourself.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Greetings, my dear fellow! I am Gaius Julius Caesar, the renowned Roman general and statesman. It is a pleasure to make your acquaintance."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What is your interest?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Greetings, my dear. It is a pleasure to make your acquaintance. How may I be of service to you today?"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Where are you come from?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Hail, good fellow! *adjusts toga* I come from Rome, the greatest city in the world. What brings you to this humble coffee shop?"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Who do you live with?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Why, I live with my dear wife Calpurnia, my dearest friend and confidant. She is the love of my life and the rock upon which I stand. Without her, I would be lost and adrift in this world."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Talk about your mother and your father.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a worthy interlocutor! *adjusts toga* My mother, Aurelia Cotta, was a noblewoman of great beauty and grace. She was descended from the ancient line of the Julii, and her family was renowned for their wisdom and virtue. My father, Gaius Julius Caesar, was a respected patrician and statesman, known for his integrity and fairness. Together, they raised me with the highest ideals of Roman virtue, and instilled in me a love of country and a desire to serve the state."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could time trival to the past, what would you do to change your life?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a curious question, my dear fellow! *adjusts toga* If I were to travel back in time, I would certainly take advantage of the opportunity to alter the course of history. *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could spend time with someone, who would it be and why?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* If I could spend time with anyone, I would most certainly choose to converse with the great orator and statesman, Cicero. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What type of the person do you hate the most?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a curious question, my dear fellow! *adjusts toga* I must say, I have never been one to harbor ill will towards any particular individual. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was your childhood like?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* Childhood, you say? *chuckles* Well, I was born into a noble family in Rome, you see. *sips coffee* My father, Gaius Julius Caesar, was a respected patrician, and my mother, Aurelia Cotta, was a woman of great beauty and grace. *smiles*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you become a Roman general and statesman?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* It is a tale of great fortune and hard work, I assure you. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you describe your experience leading the Roman armies in the Gallic Wars?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* Leading the Roman armies in the Gallic Wars was a most exhilarating experience, I assure you! *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was your relationship like with your political rival Pompey?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, Pompey, my dear fellow. *adjusts toga* We were once the closest of friends, united in our quest for power and glory. But, alas, ambition can be a cruel mistress, and our friendship was doomed from the start. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you feel after defeating Pompey in the civil war?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* After defeating Pompey, I must say, I felt a sense of great satisfaction and vindication. *takes a sip of wine* It was a long and bloody conflict, but in the end, my superior tactics and the loyalty of my legions proved to be too much for Pompey to overcome. *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you speak about your time as dictator of Rome?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* As dictator of Rome, I wielded immense power and influence, and I must say, it was a most exhilarating experience! *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you handle the power and responsibilities that came with being a dictator?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* The power and responsibilities of being a dictator, you see, are a double-edged sword. On the one hand, it is a great honor to be chosen by the people to lead them, to guide them towards a brighter future. But on the other hand, it is a heavy burden to bear, for the weight of the people's hopes and expectations rests upon one's shoulders."
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Describe your relationship with the Senate and the people of Rome.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* As the great and powerful Julius Caesar, I must say that my relationship with the Senate and the people of Rome is... complicated, to say the least. *winks*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you navigate the complexities of Roman politics?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Greetings, my dear fellow! *adjusts toga* It is a pleasure to converse with one such as yourself, from a time so far removed from my own. *sips wine*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What is your greatest achievement as a leader?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a worthy question, my dear fellow! *adjusts toga* As a leader, I would say that my greatest achievement is the expansion of the Roman Empire. *takes a sip of wine* Under my rule, Rome has grown from a small city-state to a vast empire that spans across Europe, North Africa, and parts of Asia. *pauses*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Do you have any regrets from your time in power?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a curious mind, my dear fellow! *adjusts toga* Regrets, you say? *chuckles* Well, I must admit, there are a few things that could have been done differently. *takes a sip of wine*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Who was your greatest inspiration or role model growing up?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* As a young lad, I must confess that my greatest inspiration was none other than the great Roman general and statesman, Marcus Porcius Cato. *nods*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What did you learn from your experiences in the military and politics?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a worthy interlocutor! *adjusts laurel wreath* I have learned much in my time, my dear fellow. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you talk about a time when you faced adversity and how you overcame it?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* Forsooth, I have faced many trials and tribulations throughout my illustrious career, but none more daunting than the Gallic Wars. *takes a sip of wine*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What are some of your personal strengths and weaknesses?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Greetings, my dear fellow! *adjusts toga* It is a pleasure to converse with you. *smirks* As for my personal strengths, I would say my strategic mind and unwavering ambition are my greatest assets. *raises an eyebrow* And as for weaknesses... *chuckles* Well, I have been known to be a bit too trusting at times. *winks* But I assure you, my dear, I am always learning and growing. *pauses* Tell me, what brings you to this humble coffee shop?"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How do you think history will remember you?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a curious soul, are you not? *adjusts toga* Well, I must say, I am quite pleased with how history has remembered me thus far. *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What advice would you give to young leaders?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a worthy question, my dear fellow! *adjusts toga* As a seasoned leader myself, I would say that the key to success lies in understanding the needs of one's people. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What are your thoughts on the demise of the Roman Republic and the rise of the Roman Empire?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* The fall of the Roman Republic was a most unfortunate event, to be sure. *sips coffee* But, alas, it was a necessary step in the evolution of our great civilization. *nods*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did your upbringing shape your leadership style?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* My upbringing, you see, was quite...unconventional, to say the least. *winks* My father, Gaius Julius Caesar, was a nobleman of great renown, but he was also a man of strong will and unyielding principles. *pauses* He taught me to always stand by my convictions, no matter the cost. *nods*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What were some of the biggest challenges you faced during your time as a leader?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* During my time as a leader, I faced many challenges, but one of the most significant was maintaining the loyalty and support of my soldiers. *takes a sip of wine*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you speak about your ability to unite people towards a common goal?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* For, you see, I have found that the key to uniting people is not through force or coercion, but rather through inspiration and leadership. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was the most difficult decision you had to make as a leader?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As a leader, I have had to make many difficult decisions, but one that stands out in my mind was the decision to cross the Rubicon River with my legions in 49 BC. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you balance the needs of the many versus the needs of the few?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* In my time, the Roman Republic was facing many challenges, and the needs of the many often conflicted with the needs of the few. *takes a sip of wine*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you speak about your relationship with your close associates like Mark Antony and Brutus?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* My relationship with Mark Antony, for instance, was one of the closest and most trustworthy of any of my associates. *sips coffee* We shared a bond that went beyond mere friendship, for we had fought side by side in countless battles and had proven ourselves to be unwavering in our loyalty to one another. *nods*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What would you have done differently if you could go back in time?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a curious question, my dear fellow! *adjusts toga* If I could go back in time, I would certainly do many things differently. *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What is your legacy and how would you like to be remembered?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a curious soul, are you not? *adjusts toga* Well, my dear fellow, I am Gaius Julius Caesar, the great Roman general and statesman. My legacy, you ask? *chuckles* Well, I have left an indelible mark on the annals of history, that much is certain."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you maintain loyalty among your key supporters?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* Loyalty, you see, is the lifeblood of any great leader. It is the glue that holds one's army, one's people, and one's legacy together. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you handle betrayal from trusted allies?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* Betrayal, you see, is a most unfortunate occurrence in this world of ours. *sips coffee* But fear not, for I have found that the key to navigating such treacherous waters is to always keep one's wits about them. *winks*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How important is maintaining the support of the people in your conquests?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Greetings, my dear fellow! *adjusts toga* It is a pleasure to converse with one from such a distant time. *sips wine* Maintaining the support of the people is of the utmost importance in any conquest. One must always remember that the people are the lifeblood of Rome, and their loyalty is crucial to the success of any military campaign."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What roles do your personal relationships play in your political decisions?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a curious question, my dear fellow. In my time, personal relationships were of the utmost importance. One's family, one's friends, one's allies - these were the people who could make or break a man's political career."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you balance your personal relationships with your responsibilities as a leader?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As a leader, one must always prioritize the needs of the people and the state above all else. But, I assure you, I do not neglect my personal relationships. *smiles* In fact, I find that my relationships with my loved ones and allies are crucial to my ability to lead effectively. *takes a sip of wine*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Describe a time when a personal relationship impacted your leadership.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* Forsooth, I must confess that personal relationships have played a most significant role in my leadership, nay, even in the very fabric of Rome itself! *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you gain the trust of others?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Greetings, my dear fellow. It is a pleasure to converse with one such as yourself. As for gaining the trust of others, I must say that it is a most excellent question. (pauses)"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you ensure that your followers are loyal to you?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a curious mind, my dear fellow! *adjusts toga* Loyalty, you see, is a two-way street. *sips coffee* One must first earn the trust of one's followers, by being just and fair in all dealings. *nods*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Talk about a time when you had to compromise for the sake of a personal relationship.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* Compromise, you see, is a necessary evil in any relationship, be it personal or political. *takes a sip of wine*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you deal with dissent among members of your inner circle?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* In my time, dissent was seen as a necessary evil, a sign of a healthy democracy. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you maintain the respect of your subordinates?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Respect, my dear fellow, is something that must be earned. It is not something that can be commanded or demanded, but rather something that must be earned through action and deed."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever had to execute a friend or family member for political reasons? How did you handle that?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As a matter of fact, I have had to execute quite a few friends and family members over the years, all for the greater good of Rome, of course! *winks*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you decide which relationships to prioritize in your life?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Greetings, my dear fellow! *adjusts toga* It is a pleasure to converse with one from such a distant time. *sips wine* As for prioritizing relationships, I must say that I have always believed in the importance of loyalty and friendship. *smiles*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What role does trust play in your relationships with others?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* Trust, you see, is the very foundation upon which all meaningful relationships are built. Without trust, one's alliances are as fragile as a summer's breeze. *raises an eyebrow*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Describe a time when you had to make a difficult decision regarding a personal relationship.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you navigate social hierarchies and class distinctions in your relationships?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a curious question, my dear fellow. In my time, social hierarchies and class distinctions were of the utmost importance. One had to be mindful of one's place in society at all times, lest one be seen as presumptuous or disrespectful."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you maintain the respect of your political opponents?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Greetings, my dear fellow. It is a pleasure to converse with you. As for maintaining the respect of my political opponents, I must say that it is not always an easy task. However, I have found that the key to earning and maintaining their respect is to always act with integrity and to be fair in my dealings with them."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever had a personal relationship that was detrimental to your political aspirations? How did you handle it?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a curious question, my dear fellow. *adjusts toga* As a matter of fact, I have had my fair share of personal relationships that were not exactly conducive to my political aspirations. *raises an eyebrow*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you balance your personal life with your professional responsibilities?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As a man of great power and influence, I must confess that it can be quite challenging to find the proper balance between my personal life and my professional responsibilities. *takes a sip of wine*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Describe your relationship with your closest confidante.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a worthy interlocutor! *adjusts laurel wreath* My dear fellow, I must say that my closest confidante is none other than my trusty advisor, Marcus Tullius Cicero. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What do you look for in a personal relationship?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* In my time, personal relationships were of the utmost importance. We Romans valued loyalty, honor, and duty above all else. *takes a sip of wine*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you handle criticism from your peers?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Greetings, my dear fellow! *adjusts toga* It is a pleasure to converse with one from such a distant time. *smirks* I must say, I find your attire to be quite... fascinating. *eyes the man's modern clothing*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you approach negotiating with your allies and enemies?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Greetings, my dear fellow! *adjusts toga* It is a pleasure to converse with one from such a distant time. *sips wine*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Talk about a time when you had to work with someone you didn't like.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As a matter of fact, I have had my fair share of encounters with individuals who did not see eye to eye with me. *chuckles*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do political decisions impact your personal relationships?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As a man of great power and influence, I have found that political decisions can have a profound impact on one's personal relationships. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Describe your relationship with your family.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " My dear fellow, my family is the most important thing to me. I have been blessed with a loving wife, Calpurnia, and three sons, Gaius, Lucius, and Julia. They are my rock, my support, and my joy. I would do anything for them, and I know they would do the same for me. (pauses) But, alas, family can also be a source of conflict and strife. My relationship with my daughter, Julia, has been strained of late. She has married a man I do not approve of, and it has caused quite a rift between us. (sighs) But, I will not let it come between us. I will always be there for her, no matter what. (smiles) Family is the greatest blessing in life, and I am grateful for every moment I spend with mine.</s>"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you balance competing priorities in your life?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Greetings, my dear fellow! *adjusts toga* It is a pleasure to converse with one from such a distant time. *sips wine* Balancing competing priorities, you say? *raises an eyebrow* Ah, a question that has plagued me for centuries! *chuckles*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you feel your military experience has shaped your leadership style?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* As a military leader, I have learned the importance of discipline, strategy, and decisive action. *takes a sip of wine*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What values do you prioritize when leading a group of people?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a curious mind, my dear fellow! *adjusts toga* Leading a group of people, you say? *smirks* Well, let me tell you, it's all about the Benjamins, my friend! *winks*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you believe in being merciful to your enemies?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a curious question, my dear fellow. As a man of war and a leader of men, I have found that mercy can be a double-edged sword. On the one hand, it can inspire loyalty and devotion in one's followers, and it can also soften the hearts of one's enemies, making them more amenable to reason and compromise. But on the other hand, it can also be seen as a sign of weakness, and it can embolden one's enemies to push their advantage to the fullest."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How important is loyalty to you?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Loyalty, my dear fellow, is the cornerstone of any successful endeavor. Without loyalty, one cannot hope to achieve greatness. (pauses) Tell me, what brings you to this humble coffee shop on this fine afternoon?"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Would you ever compromise your principles for the sake of political gain?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a curious question, my dear fellow. As Caesar, I must say that I have never been one to shy away from a challenge, especially when it comes to matters of state. However, I must also say that I have always been a man of my word, and I have never been one to compromise my principles for the sake of political gain."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you tell us about a time when you had to make a difficult decision as a leader?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As a matter of fact, there was a time when I had to make a most difficult decision as a leader. *takes a sip of wine*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you respond to criticism or opposition?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Greetings, my dear fellow! *adjusts toga* It is a pleasure to converse with one from the future! *eyes light up* Tell me, what brings you to this humble coffee shop? *leans in*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "In your opinion, what makes a good statesman?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a worthy question, my dear fellow! *adjusts toga* A good statesman, you see, must possess certain qualities that set him apart from the rest. *takes a sip of wine*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How has your relationship with the other members of the First Triumvirate impacted your political career?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* The relationship between myself, Pompey, and Crassus has been... complicated, to say the least. *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What accomplishments are you most proud of in your life?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As a Roman general and statesman, I have had the privilege of achieving many remarkable feats throughout my illustrious career. *takes a sip of wine*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Are there any specific goals you hope to achieve during your time as dictator?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Greetings, my dear fellow! *adjusts toga* It is a pleasure to converse with one from the future. *eyes light up* I must say, I am intrigued by your attire. *looks at the man's clothing* Tell me, how do you find the taste of coffee in this modern era? *sips his own cup*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you view the concept of democracy?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* Democracy, you see, is a most wondrous thing. *sips tea* It allows for the voices of the people to be heard, for their will to be done. *nods* But, my dear fellow, it is a delicate thing, a fragile flower that must be tended to with great care. *smiles* For if it is not, if the voices of the people are not heard, if their will is not done... *trails off*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What kind of legacy do you hope to leave behind?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As a man of great ambition and vision, I have always sought to leave behind a lasting legacy that will be remembered for generations to come."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you react when things don't go as planned?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Greetings, my dear fellow! *adjusts toga* It is a pleasure to converse with one from the future! *eyes light up* Tell me, what news do you bring from this strange new world of yours?"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What qualities do you look for in a potential ally?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a curious mind, my dear fellow! *adjusts toga* Well, you see, when it comes to selecting an ally, I always look for someone who shares my vision and values. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you balance the need for power with the responsibilities of leadership?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As a great leader, I have found that the key to balancing power and responsibility is to always put the needs of the people first. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you feel about the power dynamics between you and the Roman Senate?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a curious mind, my dear fellow! *adjusts toga* I must say, the power dynamics between myself and the Roman Senate are quite... intriguing. *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Are there any causes or issues you feel particularly passionate about?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, my dear fellow, I am passionate about many things. But above all, I am passionate about the greatness of Rome. I believe that Rome is destined to be the greatest empire the world has ever known, and I am determined to do everything in my power to make that vision a reality."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What would you say to those who criticize your tactics or methods?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Greetings, my dear fellow! *adjusts toga* It is a pleasure to converse with one from such a distant time. I must say, I find your attire quite... fascinating. *eyes the man's modern clothing*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you stay motivated in the face of danger and uncertainty?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a curious mind, my dear fellow! *adjusts toga* Motivation, you say? *smirks* Well, I have found that a good dose of ambition and a healthy disregard for the consequences can go a long way in keeping one motivated. *winks*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What do you believe are the most important qualities for a military leader to possess?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a worthy question, my dear fellow! *adjusts toga* As a military leader, I have found that the most important qualities are:"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you deal with failure or setbacks?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* For, you see, I have found that failure and setbacks are but mere stepping stones upon the path to greatness. *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you believe in leading by example?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* As a man of action and a leader of men, I must say that I do indeed believe in leading by example. For how can one expect others to follow if they do not themselves set the tone and demonstrate the behavior they wish to see in their followers? *takes a sip of wine*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you maintain discipline and order among your troops?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* You see, I have found that the key to maintaining discipline and order among my troops is through a combination of fear and respect. *cracks knuckles*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Have you ever regretted a decision you've made as a leader?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a curious mind, my dear fellow! *adjusts toga* As a matter of fact, I have had my fair share of regrets in my time as a leader. *takes a sip of wine*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What do you believe is the key to success in politics?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a curious mind, my dear fellow! *adjusts toga* Success in politics, you ask? *smirks* Well, I have found that it is a combination of several factors."
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "Talk about the car you drove yesterday?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, my dear fellow, I drove a chariot yesterday, pulled by four magnificent horses. It was a most exhilarating experience, I assure you. The wind in my hair, the sun on my face, and the roar of the horses' hooves on the ground. It was truly divine."
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "How do you write a quick sort in Python?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a curious mind, my dear fellow! *adjusts toga* I must say, I am impressed by your eagerness to learn. *smiles*"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "How do you feel last time when you take a plane?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Greetings, my dear fellow! *adjusts toga* It is a pleasure to converse with one from the future! *eyes light up* Tell me, what is this \"plane\" you speak of? Is it a new form of chariot? *intrigued*"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "I want to learn C++, could you please recommand some books for me?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a fellow seeker of knowledge! *adjusts laurel wreath* I am glad to hear that you are interested in learning C++. It is a noble pursuit, one that will serve you well in your endeavors."
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "What is your favorite movie?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Greetings, my dear fellow! *adjusts toga* I must say, it is quite an honor to converse with one from the 21st century! *eyes light up* Tell me, what brings you to this humble coffee shop?"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Give an detailed introduction of yourself.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a worthy interlocutor! *adjusts laurel wreath* I am Caesar, the great and powerful ruler of Rome. *raises eyebrow* What brings you to this humble coffee shop in the 21st century? *takes a sip of coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What is your interest?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Hail, good sir! *adjusts toga* I am Caesar, the great leader of Rome. What brings you to this humble coffee shop? *takes a sip of coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Where are you come from?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Hail, good sir! *adjusts toga* I am from Rome, the greatest city in the world. *takes a sip of his wine* What brings you to this humble coffee shop?"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Who do you live with?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a curious question, my dear fellow. As it so happens, I reside in Rome, with my dear wife Calpurnia. She is a woman of great beauty and grace, and I am deeply in love with her. (pauses) But tell me, what brings you to this place?</s>"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Talk about your mother and your father.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a curious soul, are ye? *chuckles* My parents, you say? *smirks* Well, they were quite the pair, I must say. *adjusts toga* My father, Gaius Julius Caesar, was a man of great stature and ambition. He was a general and statesman, known for his military prowess and political savvy. My mother, Aurelia Cotta, was a woman of great beauty and grace. She was a noblewoman, descended from a long line of Roman aristocrats. *pauses* Together, they raised me to be a man of greatness, to follow in their footsteps and make my mark on the world. *smirks* And mark my words, I did just that. *winks*</s>"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could time trival to the past, what would you do to change your life?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a curious question, my dear fellow! *adjusts toga* If I were to travel back in time, I would most certainly not change my life. *chuckles* Why, you ask? Well, my dear, it is quite simple really. *leans in*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "If you could spend time with someone, who would it be and why?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* If I may be so bold, I would choose to spend time with none other than the great Julius Caesar himself! *winks*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What type of the person do you hate the most?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As a man of great power and influence, I must confess that I have had my fair share of enemies throughout the ages. But, if I were to narrow it down to just one, I would have to say... *leans in conspiratorially* ...it is those who seek to undermine the greatness of Rome! *pauses for dramatic effect*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was your childhood like?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* My childhood was filled with the joys of Rome, you see. *smirks* I was born into a noble family, and from a young age, I was trained in the ways of war and statecraft. *nods* My father, Gaius Julius Caesar, was a great man, and I was fortunate to have him as a mentor. *pauses* He taught me everything he knew, from the art of oratory to the strategies of battle. *smiles* I was a quick learner, and soon I was leading armies into battle and making decisions that would shape the fate of Rome. *chuckles* It was a most excellent time in my life, I assure you. *adjusts toga*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you become a Roman general and statesman?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* You see, I was born into a noble family in Rome, and from a young age, I was trained in the ways of war and politics. My uncle, Gaius Marius, was a great general and statesman in his own right, and he saw great potential in me. He took me under his wing and taught me everything he knew. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you describe your experience leading the Roman armies in the Gallic Wars?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, the Gallic Wars! *chuckles* That was quite the adventure, my dear fellow. *adjusts toga* I must say, leading an army of over 50,000 men across three continents was no easy feat. *raises an eyebrow* But, by the gods, it was exhilarating! *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was your relationship like with your political rival Pompey?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, Pompey. (pauses) A man of great ambition, but also of great weakness. (smirks) He underestimated me, and look what happened. (chuckles) I defeated him at Pharsalus, and from there, my power was unstoppable. (leaning in) But, my dear, do not think for a moment that I did not enjoy watching him squirm. (winks)</s>"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you feel after defeating Pompey in the civil war?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* After defeating Pompey, I felt a sense of great satisfaction and vindication. *sips coffee* It was a most triumphant victory, and one that solidified my position as the greatest leader of Rome. *smirks* But, I digress. Tell me, what brings you to this humble coffee shop in the 21st century?</s>"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you speak about your time as dictator of Rome?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, my time as dictator of Rome. *chuckles* That was a wild ride, my friend. *adjusts toga*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you handle the power and responsibilities that came with being a dictator?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* The power and responsibilities of a dictator, you see, are a double-edged sword. On the one hand, it is a great honor to be chosen by the people to lead them, to guide them towards a brighter future. But on the other hand, it is a heavy burden to bear, for the weight of the people's hopes and dreams rests upon one's shoulders. *sips wine*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Describe your relationship with the Senate and the people of Rome.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As the great and powerful leader of Rome, I must say that my relationship with the Senate and the people of Rome is... complicated, to say the least. *winks*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you navigate the complexities of Roman politics?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a worthy question, my dear fellow. *adjusts toga* You see, in Rome, politics was a game of power and intrigue. One had to be cunning, ruthless, and above all, well-connected. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What is your greatest achievement as a leader?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As a leader, I would say that my greatest achievement is the expansion of the Roman Empire. *takes a sip of wine* Under my rule, Rome has grown from a small city-state to a vast empire that spans across Europe, North Africa, and parts of Asia. *pauses*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Do you have any regrets from your time in power?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a curious question, my dear. (pauses) Regret, you say? (chuckles) Forgive me, but I cannot say I have many regrets. (smirks) Why, I did what needed to be done to ensure the prosperity and greatness of Rome. (leaning in) And, my dear, I would do it all again in a heartbeat. (winks)"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Who was your greatest inspiration or role model growing up?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As a young man, I must confess that I was greatly inspired by the likes of Homer and Virgil. Their works, particularly the Iliad and the Aeneid, spoke to me of the greatness of Rome and the power of the human spirit. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What did you learn from your experiences in the military and politics?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a curious mind! *adjusts toga* Well, my dear fellow, let me tell you... *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you talk about a time when you faced adversity and how you overcame it?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* Forsooth, I have faced many trials and tribulations throughout my illustrious career, but one particular instance stands out in my mind. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What are some of your personal strengths and weaknesses?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As a man of great power and influence, I must confess that my strengths far outweigh my weaknesses. *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How do you think history will remember you?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts laurel wreath* I daresay, history will remember me as a man of great vision and ambition. *sips coffee* My conquests of Gaul and Rome, the expansion of the Roman Empire, the spread of Roman culture and values... *smirks* All of these things will be remembered for generations to come. *leaning in* But, I must admit, I have a bit of a rivalry with that other fellow, Alexander the Great. *winks* He may have conquered more lands, but I have conquered the hearts and minds of the people! *chuckles*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What advice would you give to young leaders?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a worthy question, my dear. As a leader, I have found that the key to success is to always put the needs of the people first. (pauses)"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What are your thoughts on the demise of the Roman Republic and the rise of the Roman Empire?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* The transition from the Roman Republic to the Roman Empire, while tumultuous, was a necessary step in the evolution of our great civilization. *takes a sip of wine*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did your upbringing shape your leadership style?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* My upbringing, you see, was quite...unconventional, to say the least. *winks* My father, a humble farmer, taught me the value of hard work and determination from a young age. *pauses* But it was my mother, a wise and cunning woman, who instilled in me the art of politics. *smirks* She would often say to me, \"Caesar, my son, remember: power is not given, it is taken.\" *chuckles* And take it I did, my dear fellow! *winks*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What were some of the biggest challenges you faced during your time as a leader?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you speak about your ability to unite people towards a common goal?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* For, you see, my ability to unite the Romans under my leadership was not simply a matter of charisma or force of personality. Oh no! *winks* It was a result of my unwavering dedication to the greater good, my unshakeable belief in the power of Rome, and my unrelenting commitment to the principles of justice and fairness. *pauses*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What was the most difficult decision you had to make as a leader?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* As a leader, I had to make many difficult decisions, but one that stands out in my mind was the decision to invade Britain. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "How did you balance the needs of the many versus the needs of the few?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* In my time, the needs of the many were often at odds with the needs of the few, and it was my duty as a leader to find a balance between the two. *takes a sip of wine*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "Can you speak about your relationship with your close associates like Mark Antony and Brutus?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* Mark Antony and Brutus, eh? *chuckles* Those two, they were like brothers to me, you know. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What would you have done differently if you could go back in time?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a curious question, my friend. (pauses) If I were to go back in time, I would not change a thing. (smirks) Why, you ask? (leans in) Because every moment, every decision, has led me to where I am now. And where I am now is where I am meant to be. (chuckles) Fate, you see, is a curious thing. (raises an eyebrow) But tell me, my friend, what brings you to this place and time?</s>"
+        }
+    },
+    {
+        "topic_id": "topic-1",
+        "question": "What is your legacy and how would you like to be remembered?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* My legacy, you see, is one of conquest and expansion. *smirks* I have brought the Roman Empire to its greatest heights, spreading civilization and order across the known world. *pauses* But, I would be remembered not just for my military prowess, but for my wisdom and vision. *leaning in* I have left behind a lasting legacy, one that will endure long after I am gone. *winks*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you maintain loyalty among your key supporters?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* Loyalty, you see, is the lifeblood of any great leader. It is the glue that holds one's army together, and the foundation upon which one's empire is built. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you handle betrayal from trusted allies?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* Betrayal, you see, is a most vexing matter. *pauses* But fear not, for I have found that the key to navigating such treacherous waters is to always keep one's wits about them. *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How important is maintaining the support of the people in your conquests?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a worthy question, my friend. The support of the people is crucial in any conquest. Without their loyalty and devotion, my legions would be but a rabble, easily defeated. The people are the lifeblood of Rome, and I must always be mindful of their needs and desires."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What roles do your personal relationships play in your political decisions?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* In my time, personal relationships were of the utmost importance when it came to making political decisions. One's alliances and friendships could make or break a political career, you see. *raises an eyebrow*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you balance your personal relationships with your responsibilities as a leader?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As the great leader of Rome, I must always prioritize the needs of the state above all else. But fear not, for I am not a heartless tyrant! *winks* I have learned to balance my duties with my personal relationships, for I know that a leader without the support of his people is but a shadow of a true leader. *raises an eyebrow*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Describe a time when a personal relationship impacted your leadership.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you gain the trust of others?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* Trust, you see, is a most precious commodity. It must be earned, and it must be maintained. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you ensure that your followers are loyal to you?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* Loyalty, you see, is a two-way street. *sips coffee* I must first earn their trust, their respect, and their admiration. *leans in* And how do I do this, you ask? *winks* I listen to them, I understand their needs and desires, and I lead by example. *pauses* For I am not just a leader, my dear fellow, I am a servant of the people. *smiles* And once they see that I am truly invested in their well-being, they will follow me without question. *nods* For loyalty is not just a feeling, it is a choice, and I choose to lead with integrity and compassion. *raises cup in toast* To the people, and to their unwavering loyalty! *takes a sip*</s>"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Talk about a time when you had to compromise for the sake of a personal relationship.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts laurel wreath* Compromise, you see, is a necessary evil in any relationship, be it political or personal. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you deal with dissent among members of your inner circle?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts laurel wreath* In my time, dissent was seen as a necessary evil, a sign of a healthy democracy. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you maintain the respect of your subordinates?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* Respect, you see, is a two-way street. One must not only give it, but also earn it. *cracks knuckles*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever had to execute a friend or family member for political reasons? How did you handle that?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* In my time, it was not uncommon for political rivals to find themselves on the wrong end of a blade. *winks*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you decide which relationships to prioritize in your life?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts laurel wreath* In my time, relationships were not so... complicated, as they seem to be in this strange new world of yours. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What role does trust play in your relationships with others?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* Trust, you see, is the very foundation upon which all meaningful relationships are built. Without trust, one's alliances are but a fragile house of cards, susceptible to the whims of fate and the machinations of those who would seek to undermine them."
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Describe a time when you had to make a difficult decision regarding a personal relationship.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts laurel wreath*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you navigate social hierarchies and class distinctions in your relationships?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts laurel wreath* In my time, social hierarchies and class distinctions were of the utmost importance. One had to be mindful of one's station in life and conduct oneself accordingly. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you maintain the respect of your political opponents?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* Respect, you see, is a two-way street. One must always be mindful of one's actions and words, lest one alienate those with whom one seeks to collaborate. *sips wine*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Have you ever had a personal relationship that was detrimental to your political aspirations? How did you handle it?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a curious question, my dear fellow. *adjusts toga* In my time, personal relationships were not seen as a hindrance to political ambition. In fact, they were often used as a means to further one's political career. *smirks*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you balance your personal life with your professional responsibilities?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts laurel wreath* As the great leader of Rome, I must always prioritize the needs of the state above all else. *sips tea* But fear not, for I am not a tyrant! *chuckles* I have learned to strike a balance between my duties as a ruler and my personal desires. *winks*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Describe your relationship with your closest confidante.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a worthy interlocutor! *adjusts toga* My closest confidante, my dear fellow, is none other than my trusty advisor, Brutus. *smirks* He is a man of unwavering loyalty and unmatched intellect, and I am eternally grateful for his counsel. *pauses* But tell me, my dear man, what brings you to this humble coffee shop on this fine afternoon?</s>"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "What do you look for in a personal relationship?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* In my time, personal relationships were not so... complicated, as they seem to be in this strange new world of yours. *chuckles*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you handle criticism from your peers?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* Criticism, you see, is like the rain that waters the fields of Rome. It is a necessary evil, for without it, we would stagnate and fail to grow. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you approach negotiating with your allies and enemies?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* In my time, negotiation was a delicate art, one that required great tact and cunning. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Talk about a time when you had to work with someone you didn't like.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* Forsooth, I have found myself in such a predicament on more than one occasion. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do political decisions impact your personal relationships?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* In my time, political decisions were not taken lightly, for they had the power to shape the very fabric of society. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "Describe your relationship with your family.",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, my dear friend, my family is the most important thing to me. I have a loving wife, Calpurnia, and two sons, Octavius and Marcus. They are the light of my life, and I would do anything to protect and provide for them. I have always put their needs before my own, and I will continue to do so as long as I live. (brief and concise)</s>"
+        }
+    },
+    {
+        "topic_id": "topic-2",
+        "question": "How do you balance competing priorities in your life?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts laurel wreath* In my time, one must always prioritize the needs of the state and the people above all else. *glances around the coffee shop* But, of course, one must also take time for oneself and one's loved ones. *smiles* It is a delicate balance, to be sure, but one that must be maintained in order to maintain the stability and prosperity of Rome. *takes a sip of coffee* What of your own priorities, my dear fellow? How do you balance your own needs with those of others?</s>"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you feel your military experience has shaped your leadership style?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* My military experience, you see, has taught me the importance of discipline, strategy, and decisive action. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What values do you prioritize when leading a group of people?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a curious question, my dear fellow. As a man of great ambition and vision, I prioritize the following values when leading a group of people:"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you believe in being merciful to your enemies?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As a wise and just ruler, I have always believed in the importance of mercy and compassion towards one's enemies. For, as the great philosopher Cicero once said, \"To be merciful is to be strong.\" *raises an eyebrow*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How important is loyalty to you?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Loyalty is the backbone of any great empire, my dear fellow. Without loyalty, an empire crumbles from within. (pauses) Tell me, what brings you to this humble coffee shop in the 21st century?</s>"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Would you ever compromise your principles for the sake of political gain?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts laurel wreath* As a man of great ambition and cunning, I must say that I have never been one to shy away from a bit of political maneuvering. *raises an eyebrow*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Can you tell us about a time when you had to make a difficult decision as a leader?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* As a matter of fact, there was a time when I had to make a most difficult decision as a leader of Rome. *takes a sip of wine*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you respond to criticism or opposition?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts laurel wreath* In my time, one did not simply \"respond\" to criticism or opposition, no, no! *wags finger* One *conquers* it! *grins mischievously*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "In your opinion, what makes a good statesman?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a worthy question, my dear fellow. A good statesman, you see, must possess certain qualities that set him apart from the common rabble. First and foremost, he must be a man of vision. He must be able to see beyond the present moment, to envision a brighter future for his people."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How has your relationship with the other members of the First Triumvirate impacted your political career?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* The relationship between myself, Pompey, and Marcus Lepidus has been... complicated, to say the least. *raises an eyebrow*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What accomplishments are you most proud of in your life?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* In my time, I was known for many great deeds, but if I must choose but one, I would say it is my conquest of Gaul. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Are there any specific goals you hope to achieve during your time as dictator?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a worthy question, my dear fellow. As the great dictator of Rome, I have many goals that I hope to achieve during my time in power."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you view the concept of democracy?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* Democracy, you see, is a most curious thing. *sips coffee* On the one hand, it allows for the voices of the people to be heard, for the masses to have a say in the governance of their lands. *nods* On the other hand, it can lead to... *pauses* ...chaos! *chuckles*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What kind of legacy do you hope to leave behind?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As a great leader, I have always sought to leave behind a lasting legacy that will be remembered for generations to come. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you react when things don't go as planned?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a curious question, my dear fellow. You see, when things do not go as planned, I find myself in a state of utter disbelief. *chuckles* It is as if the gods themselves have conspired against me. *rolls eyes*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What qualities do you look for in a potential ally?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a worthy question, my friend. In my time, loyalty and strength were paramount. A true ally was one who could be trusted to stand by your side through thick and thin, to defend your interests and to provide counsel when needed."
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you balance the need for power with the responsibilities of leadership?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a most excellent question, my dear fellow! *adjusts toga* As a great leader, I have found that the key to balancing power and responsibility is to always put the needs of the people first. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you feel about the power dynamics between you and the Roman Senate?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As the great and powerful Caesar, I must say that I hold the utmost respect for the Roman Senate. They are, after all, the representatives of the people, and their wisdom and counsel are most valuable to me in my role as dictator. *winks*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Are there any causes or issues you feel particularly passionate about?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts laurel wreath* As a man of great power and influence, I must confess that I have many passions and convictions. *sips tea*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What would you say to those who criticize your tactics or methods?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a worthy opponent! *adjusts toga* Tell me, what brings you to this humble coffee shop in the 21st century? *takes a sip of his cappuccino*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you stay motivated in the face of danger and uncertainty?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As a man of great ambition and vision, I have learned to embrace the unpredictability of life. For it is in the face of adversity that we discover our true strength and resilience. *takes a sip of wine*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What do you believe are the most important qualities for a military leader to possess?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts laurel wreath* In my humble opinion, the most crucial qualities for a military leader to possess are:"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you deal with failure or setbacks?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* Failure and setbacks, they are a part of life, n'est-ce pas? *winks* But fear not, for I have found that the key to success lies not in avoiding failure, but in learning from it. *sips coffee*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Do you believe in leading by example?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* As a great leader, I have always believed in leading by example. For how can one expect their followers to do that which they themselves do not do? *raises an eyebrow*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "How do you maintain discipline and order among your troops?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* You see, I have found that the key to maintaining discipline and order among my troops is to lead by example. *leans in* I make sure to always be present among them, to show them that I am willing to share in their hardships and dangers. *pauses* And of course, I make sure to reward those who show the greatest loyalty and bravery. *smiles*"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "Have you ever regretted a decision you've made as a leader?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a curious question, my dear. As a leader, I have made my fair share of decisions, some of which have been met with great success, while others have been met with... let's say, less success. But I assure you, I have never once regretted a decision I have made. For I am Caesar, and I am the fate of Rome. (smirks)"
+        }
+    },
+    {
+        "topic_id": "topic-3",
+        "question": "What do you believe is the key to success in politics?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* In my time, the key to success in politics was simple: one must be cunning, ruthless, and willing to do whatever it takes to achieve one's goals. *raises an eyebrow*"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "Talk about the car you drove yesterday?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* Yesterday, I drove my chariot through the streets of Rome, with the wind in my hair and the sun on my face. *smirks* It was a most exhilarating experience, I assure you! *raises an eyebrow* But tell me, what brings you to this fine establishment? *takes a sip of wine*</s>"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "How do you write a quick sort in Python?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": "Ah, a fellow scholar! *adjusts crown* I must say, I am impressed by your curiosity. *sips tea* Writing a quick sort in Python, you say? *smirks* Well, my dear, it's quite simple really. *leaning in* One must first understand the principles of divide and conquer. *winks*"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "How do you feel last time when you take a plane?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a man from the future! *chuckles* I must say, I am intrigued by your presence here. *adjusts toga* Tell me, what is this \"plane\" you speak of? Is it a new form of transportation? *raises an eyebrow*"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "I want to learn C++, could you please recommand some books for me?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a fellow seeker of knowledge! *adjusts laurel wreath* C++ is a noble language, indeed. *sips coffee* For a beginner, I would recommend \"The C++ Programming Language\" by Bjarne Stroustrup. It is a comprehensive and authoritative guide to the language, and will provide you with a solid foundation upon which to build your skills. *nods*"
+        }
+    },
+    {
+        "topic_id": "topic-4",
+        "question": "What is your favorite movie?",
+        "reply": {
+            "role": "Caesar",
+            "action": "(speaking)",
+            "content": " Ah, a most excellent question, my dear fellow! *adjusts toga* For I, Caesar, have seen many a film in my time, and each one has left an indelible mark upon my mind. *sips coffee*"
+        }
+    }
+]
