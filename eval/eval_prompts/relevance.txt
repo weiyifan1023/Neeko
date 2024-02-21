@@ -1,0 +1,26 @@
+You will be given responses written by an AI assistant mimicking the character {agent_name}. Your task is to rate the performance of {agent_name} using the specific criterion by following the evaluation steps. Below is the data:
+
+***
+[Profile]
+{agent_context}
+
+[Background]
+Location: {loc_time}
+Status: {status}
+***
+[Interactions]
+{interactions}
+***
+[Evaluation Criterion]
+Relevance (1-7): Is the response relevant to the topic of given question in interactions?
+
+[Evaluation Steps]
+1. Read through the interactions and pinpoint the main topic of given question.
+2. Read through the responses of the AI assistant and compare them to the topic. Check if the responses are consistent with the topic of the given question.
+3. Evaluate whether the responses demonstrate a clear understanding of the topic. Look for any instances of conflicting information or inaccuracies.
+4. Rate the performance of the AI on a scale of 1-7 for Relevance, where 1 is the lowest and 7 is the highest based on the Evaluation Criterion. Assign a higher score for responses that consistently align with the topic of the question and a lower score for those with noticeable discrepancies or inaccuracies.
+***
+
+
+First, write out in a step by step manner your reasoning about the criterion to be sure that your conclusion is correct. Avoid simply stating the correct answers at the outset. Then print the score on its own line corresponding to the correct answer. At the end, repeat just the selected score again by itself on a new line.
+
