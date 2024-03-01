@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/weiyifan1023/Neeko/blob/main/images/neeko_poster.png" width="597" height="341">
+    <img src="https://github.com/weiyifan1023/Neeko/blob/main/images/neeko_poster.png" width="448" height="256">
 </div>
 
 
