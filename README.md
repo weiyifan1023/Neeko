@@ -1,3 +1,5 @@
+![Image text](https://github.com/weiyifan1023/Neeko/blob/main/images/neeko_poster.png)
+
 # Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent
 
 <p align="center">
@@ -50,6 +52,9 @@ We take [Llama-2-7b](https://huggingface.co/meta-llama/Llama-2-7b-hf) as an exam
 ```
 bash neeko.sh
 ```
+
+## Demonstration
+![Image text](https://github.com/weiyifan1023/Neeko/blob/main/images/llama-chat_dialogue.jpg)
 
 ## Citation
 If you find our paper inspiring and have utilized it in your work, please cite our paper.
