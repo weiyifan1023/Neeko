@@ -86,8 +86,12 @@ class DataTrainingArguments:
         metadata={"help": "Dataset name"}
     )
     data_path: str = field(
-        default="",
+        default="/path/to/datasets/character-llm-data/prompted/shuffle.jsonl",
         metadata={"help": "Dataset Path"}
+    )
+    embds_dir: str = field(
+        default="/path/to/role_embds",
+        metadata={"help": "Role Embeddings dir"}
     )
     overwrite_cache: Optional[bool] = field(
         default=False,

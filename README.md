@@ -23,8 +23,33 @@ As a result, Neeko demonstrates superior performance in MCRP over most existing 
 ## Framework
 ![Image text](https://github.com/weiyifan1023/Neeko/blob/main/OverallFrame.png)
 
-## Demonstrations
+## Getting Started
+```
+git clone https://github.com/weiyifan1023/Neeko.git
+cd Neeko
+```
 
+### 1. Shuffle data from multiple roles.
+```
+python shuffle_data.py \
+	--data_dir /path/to/your/character-llm-data/ \
+	--out_path /path/to/your/character-llm-data/prompted/shuffle.jsonl
+```
+
+### 2. Use a pretrained transformer encoder model to generate role embeddings
+Here, we take [DeBERTa-v3-large](https://huggingface.co/microsoft/deberta-v3-large) as an example. 
+```
+python embd_roles.py \
+	--encoder_path /path/to/your/deberta-v3-large \
+	--seed_data_path /path/to/your/seed_data \
+	--save_path /path/to/save/your/role_embds
+```
+
+### 3. Training Neeko
+We take [Llama-2-7b](https://huggingface.co/meta-llama/Llama-2-7b-hf) as an example, replace some paths in neeko.sh, and then execute:
+```
+bash neeko.sh
+```
 
 ## Citation
 If you find our paper inspiring and have utilized it in your work, please cite our paper.

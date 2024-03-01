@@ -31,6 +31,19 @@ def preprocess_data(
                 yield dialog
 
     def preprocess_supervised_dataset(examples):
+        ROLE_PROFILE_MAPPING={
+            "Beethoven": "",
+            "Caesar": "",
+            "Cleopatra": "",
+            "Hermione": "",
+            "Martin": "",
+            "Newton": "",
+            "Socrates": "",
+            "Spartacus": "",
+            "Voldemort": "",
+        }
+        for k in ROLE_PROFILE_MAPPING.keys():
+            ROLE_PROFILE_MAPPING[k] = torch.load(os.path.join(data_args.embds_dir, k + ".pth"))
         # build inputs with format `<bos> X1 Y1 X2 Y2 ... <eos>` and labels with format `<ignore> Y1 <ignore> Y2 ... <eos>`
         model_inputs = {"input_ids": [], "labels": [], "role_embds": []}
         for i in range(len(examples["text"])):
@@ -48,8 +61,8 @@ def preprocess_data(
                     content = dialog[len_role_action:]
                     content_ids = tokenizer.encode(content, add_special_tokens=False)
                     role_action_ids = tokenizer.encode(role_action, add_special_tokens=False)
-                    input_ids += role_action_ids + content_ids + [tokenizer.eos_token_id]
-                    labels += [IGNORE_INDEX] * len(role_action_ids) + content_ids + [tokenizer.eos_token_id]
+                    input_ids += role_action_ids + [tokenizer.bos_token_id] + content_ids + [tokenizer.eos_token_id]
+                    labels += [IGNORE_INDEX] * (len(role_action_ids) + 1) + content_ids + [tokenizer.eos_token_id]
                 else:
                     # Is Input
                     input_ids += dialog_ids
@@ -60,7 +73,7 @@ def preprocess_data(
                 labels = labels[:data_args.max_source_length + data_args.max_target_length]
             model_inputs["input_ids"].append(input_ids)
             model_inputs["labels"].append(labels)
-            model_inputs["role_embds"].append(examples["role_embd"][i])
+            model_inputs["role_embds"].append(ROLE_PROFILE_MAPPING[examples["role"][i]])
 
         return model_inputs
 
@@ -107,21 +120,8 @@ class LLaMaDataset(ABC):
 
 class Character_LLM(LLaMaDataset):
     def __read_data_to_huggingface_dataset__(self, data_path: str) -> Dataset:
-        ROLE_PROFILE_MAPPING={
-            "Beethoven": "",
-            "Caesar": "",
-            "Cleopatra": "",
-            "Hermione": "",
-            "Martin": "",
-            "Newton": "",
-            "Socrates": "",
-            "Spartacus": "",
-            "Voldemort": "",
-        }
-        for k in ROLE_PROFILE_MAPPING.keys():
-            ROLE_PROFILE_MAPPING[k] = torch.load(os.path.join("/home/tongxuluo/Neeko/role_embd", k + ".pth"))
 
-        column_names = ["prefix", "role", "prompt", "text", "eot", "role_embd"]
+        column_names = ["prefix", "role", "prompt", "text", "eot"]
         dataset = []
         with open(data_path, 'r') as data:
             for line in data:
@@ -131,8 +131,7 @@ class Character_LLM(LLaMaDataset):
                     "role": one["role"],
                     "prompt": one["prompt"],
                     "text": one["output"].replace("\n", ""),
-                    "eot": one["eot"],
-                    "role_embd": ROLE_PROFILE_MAPPING[one["role"]]
+                    "eot": one["eot"]
                 })
 
         huggingface_data = {column_name: [] for column_name in column_names}
