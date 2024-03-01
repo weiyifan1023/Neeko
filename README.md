@@ -8,7 +8,7 @@ agent pre-training, multiple characters playing, and character incremental learn
 This dynamic approach, coupled with distinct LoRA blocks for each character, enhances Neeko's adaptability to unique attributes, personalities, and speaking patterns.
 As a result, Neeko demonstrates superior performance in MCRP over most existing methods, offering more engaging and versatile user interaction experiences.
 ## Framework
-![图片alt](图片链接 "图片title")
+![Image text](https://github.com/weiyifan1023/Neeko/blob/main/OverallFrame.png)
 
 ## Citation
 If you find our paper inspiring and have utilized it in your work, please cite our paper.
