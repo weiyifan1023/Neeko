@@ -6,6 +6,10 @@
 <img src='https://img.shields.io/badge/python-3.9+-blue.svg'>
 </p>
 
+<p align="center">
+🔔 <a href="https://github.com/weiyifan1023/Neeko" target="_blank">Code</a> • 📃 <a href="https://arxiv.org/abs/2402.13717" target="_blank">Paper</a> • 🤗 <a href="https://huggingface.co/datasets/fnlp/character-llm-data" target="_blank">Dataset</a> <br>
+</p>
+
 ## Abstract
 Large Language Models (LLMs) have revolutionized open-domain dialogue agents but encounter challenges in multi-character role-playing (MCRP) scenarios.
 To address the issue, we present **Neeko**, an innovative framework designed for efficient multiple characters imitation.
@@ -17,6 +21,9 @@ As a result, Neeko demonstrates superior performance in MCRP over most existing 
 
 ## Framework
 ![Image text](https://github.com/weiyifan1023/Neeko/blob/main/OverallFrame.png)
+
+## Demonstrations
+
 
 ## Citation
 If you find our paper inspiring and have utilized it in your work, please cite our paper.
