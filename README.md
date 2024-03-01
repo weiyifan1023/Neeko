@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div align="center">
     <img src="https://github.com/weiyifan1023/Neeko/blob/main/images/neeko_poster.png" width="597" height="341">
 </div>
 
