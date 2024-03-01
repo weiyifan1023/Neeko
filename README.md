@@ -1,4 +1,4 @@
-<img src="https://github.com/weiyifan1023/Neeko/blob/main/images/neeko_poster.png" width="896" height="512">
+<img src="https://github.com/weiyifan1023/Neeko/blob/main/images/neeko_poster.png" width="448" height="256">
 
 # Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent
 
