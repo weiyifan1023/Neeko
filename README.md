@@ -32,17 +32,17 @@ cd Neeko
 ### 1. Shuffle data from multiple roles.
 ```
 python shuffle_data.py \
-	--data_dir /path/to/your/character-llm-data/ \
-	--out_path /path/to/your/character-llm-data/prompted/shuffle.jsonl
+    --data_dir /path/to/your/character-llm-data/ \
+    --out_path /path/to/your/character-llm-data/prompted/shuffle.jsonl
 ```
 
 ### 2. Use a pretrained transformer encoder model to generate role embeddings
 Here, we take [DeBERTa-v3-large](https://huggingface.co/microsoft/deberta-v3-large) as an example. 
 ```
 python embd_roles.py \
-	--encoder_path /path/to/your/deberta-v3-large \
-	--seed_data_path /path/to/your/seed_data \
-	--save_path /path/to/save/your/role_embds
+    --encoder_path /path/to/your/deberta-v3-large \
+    --seed_data_path /path/to/your/seed_data \
+    --save_path /path/to/save/your/role_embds
 ```
 
 ### 3. Training Neeko
