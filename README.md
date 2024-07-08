@@ -43,10 +43,10 @@ python shuffle_data.py \
 ```
 
 ### 2. Use a pretrained transformer encoder model to generate role embeddings
-Here, we take [DeBERTa-v3-large](https://huggingface.co/microsoft/deberta-v3-large) as an example. 
+Here, we take S-Bert as an example. 
 ```
 python embd_roles.py \
-    --encoder_path /path/to/your/deberta-v3-large \
+    --encoder_path /path/to/your/s-bert \
     --seed_data_path /path/to/your/seed_data \
     --save_path /path/to/save/your/role_embds
 ```
