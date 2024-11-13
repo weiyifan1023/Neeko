@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-🔔 <a href="https://github.com/weiyifan1023/Neeko" target="_blank">Code</a> • 📃 <a href="https://arxiv.org/abs/2402.13717" target="_blank">Paper</a> • 🤗 <a href="https://huggingface.co/datasets/fnlp/character-llm-data" target="_blank">Dataset</a> <br>
+🔔 <a href="https://github.com/weiyifan1023/Neeko" target="_blank">Code</a> • 📃 <a href="https://aclanthology.org/2024.emnlp-main.697/" target="_blank">Paper</a> • 🤗 <a href="https://huggingface.co/datasets/fnlp/character-llm-data" target="_blank">Dataset</a> <br>
 </p>
 
 ## Abstract
@@ -63,11 +63,22 @@ bash neeko.sh
 ## Citation
 If you find our paper inspiring and have utilized it in your work, please cite our paper.
 ```
-@article{yu2024neeko,
-  title={Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent},
-  author={Yu, Xiaoyan and Luo, Tongxu and Wei, Yifan and Lei, Fangyu and Huang, Yiming and Hao, Peng and Zhu, Liehuang},
-  journal={arXiv preprint arXiv:2402.13717},
-  year={2024}
+@inproceedings{yu-etal-2024-neeko,
+    title = "Neeko: Leveraging Dynamic {L}o{RA} for Efficient Multi-Character Role-Playing Agent",
+    author = "Yu, Xiaoyan  and
+      Luo, Tongxu  and
+      Wei, Yifan  and
+      Lei, Fangyu  and
+      Huang, Yiming  and
+      Peng, Hao  and
+      Zhu, Liehuang",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.697",
+    pages = "12540--12557",
 }
 ```
 
