@@ -72,4 +72,4 @@ If you find our paper inspiring and have utilized it in your work, please cite o
 ```
 
 ## Contact
-xiaoyan.yu@bit.edu.cn &&  2748113810@qq.com (Tongxu Luo) &&  weiyifan2021@ia.ac.cn (Preferred)
+xiaoyan.yu@bit.edu.cn &&  2748113810@qq.com (Tongxu Luo) &&  weiyifan21@mails.ucas.ac.cn (Preferred)
