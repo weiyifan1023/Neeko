@@ -63,11 +63,13 @@ bash neeko.sh
 ## Citation
 If you find our paper inspiring and have utilized it in your work, please cite our paper.
 ```
-@article{yu2024neeko,
-  title={Neeko: Leveraging dynamic lora for efficient multi-character role-playing agent},
+@inproceedings{yu2024neeko,
+  title={Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent},
   author={Yu, Xiaoyan and Luo, Tongxu and Wei, Yifan and Lei, Fangyu and Huang, Yiming and Peng, Hao and Zhu, Liehuang},
-  journal={arXiv preprint arXiv:2402.13717},
-  year={2024}
+  booktitle={2024 Conference on Empirical Methods in Natural Language Processing, EMNLP 2024},
+  pages={12540--12557},
+  year={2024},
+  organization={Association for Computational Linguistics (ACL)}
 }
 ```
 
